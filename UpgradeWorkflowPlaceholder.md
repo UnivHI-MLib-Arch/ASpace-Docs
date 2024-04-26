@@ -1,4 +1,4 @@
-# Placeholder document for documentation on UHM-Library's ASpace upgrade worfklow
+# Placeholder for documentation on UHM-Library's ASpace upgrade worfklow(s)
 
 Notes / Considerations / To-Dos:
 
