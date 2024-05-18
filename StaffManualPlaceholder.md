@@ -28,4 +28,4 @@ File index / document outline (depending on how things end up being organized on
     - Spreadsheet import
     - Other batch processes
   - Reports and Assessments
-- etc.
+- etc.  (e.g. alternate packagings of all of the above, such as for a LibGuide)
