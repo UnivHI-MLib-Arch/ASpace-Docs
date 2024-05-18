@@ -10,10 +10,10 @@ File index / document outline (depending on how things end up being organized on
     - Core team: Faculty ASpace maintainer + DNS sysdmin
     - CDMC Archives Subcommittee
 - Big picture view of a generic upgrade/improvement process
-    - ...for a version upgrade
-    - ...for non-upgrade improvements 
-    - Include flowchart(s) / workflow diagram(s)?
+  - ...for a version upgrade
+  - ...for non-upgrade improvements
+  - Include flowchart(s) / workflow diagram(s)?
 - Detailed view(s)
-    - (step-by-step instructions for each, but need to decide just how granular to be) 
+  - (step-by-step instructions for each, but need to decide just how granular to be)
 - Things to be sure to remember (e.g. places in the application structure to check for customizations/changes)
 - Resources
