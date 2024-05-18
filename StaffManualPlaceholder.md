@@ -1,9 +1,31 @@
 # Placeholder for information for UHML staff regarding its ASpace implementation
 
-Notes / Considerations / To-Dos:
+File index / document outline (depending on how things end up being organized once placeholder doc is expanded into a folder):
 
-- This will eventually need to be expanded into a folder containing, at a minimum:
-  - the actual local practice guide (possibly split into chapters / sections);
-  - a development roadmap / future functionality list;
-  - a list of other ASpace training / help resources;
-  - etc.
+- List of other ASpace training / help resources;
+  - ASpace Help Center
+  - Other official ASpace resources, e.g. the YouTube channel
+  - Other institituion's staff guides / local practice manuals
+  - Where to find help for researchers (i.e. help guides for the PUI)
+- Now / New / Next
+  - Current Version
+  - What's changed since the last upgrade
+  - Development Roadmap
+- The actual local practice guide (probably split into chapters / sections)
+  - Overview
+  - Search / Browse / Setting Defaults
+  - Creating Records
+    - Accessions
+    - Resources
+    - Archival Objects
+    - Digital Objects
+    - Agents/Subjects
+    - Events
+    - Locations and Containers
+  - Editing records
+    - By hand
+    - RDE
+    - Spreadsheet import
+    - Other batch processes
+  - Reports and Assessments
+- etc.

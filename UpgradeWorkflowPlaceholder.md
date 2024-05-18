@@ -1,6 +1,6 @@
 # Placeholder for documentation on UHM-Library's ASpace upgrade worfklow(s)
 
-File index / document outline (depending on how things end up being organized, e.g. whether things get expanded into a folder):
+File index / document outline (depending on how things end up being organized once placeholder document gets expanded into a folder):
 
 - Logistics
   - Cadence(s)
