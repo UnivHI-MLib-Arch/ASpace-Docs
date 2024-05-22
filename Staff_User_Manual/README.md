@@ -1,6 +1,6 @@
 # Placeholder for information for UHML staff regarding its ASpace implementation
 
-File index / document outline (depending on how things end up being organized once placeholder doc is expanded into a folder):
+File index / document outline (depending on how things end up being organized once this placeholder is fleshed out and then potentially expanded into separate documents):
 
 - List of other ASpace training / help resources;
   - ASpace Help Center
