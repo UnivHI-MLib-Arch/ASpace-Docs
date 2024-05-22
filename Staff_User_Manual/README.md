@@ -2,7 +2,7 @@
 
 File index / document outline (depending on how things end up being organized once this placeholder is fleshed out and then potentially expanded into separate documents):
 
-- List of other ASpace training / help resources;
+- List of other ASpace training / help resources (but maybe make this an appendix / section of the main local practice guide)
   - ASpace Help Center
   - Other official ASpace resources, e.g. the YouTube channel
   - Other institituion's staff guides / local practice manuals
