@@ -14,8 +14,8 @@ File index / document outline (depending on how things end up being organized on
 - The actual local practice guide (probably split into chapters / sections)
   - Overview
   - Navigation
-    - Search 
-    - Browse 
+    - Search
+    - Browse
     - Setting Search + Browse Defaults
   - Creating New Records
     - Accession records
