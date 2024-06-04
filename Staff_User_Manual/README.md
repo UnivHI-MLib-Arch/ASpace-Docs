@@ -7,10 +7,8 @@ File index / document outline (depending on how things end up being organized on
   - Other official ASpace resources, e.g. the YouTube channel
   - Other institituion's staff guides / local practice manuals
   - Where to find help for researchers (i.e. help guides for the PUI)
-- Now / New / Past / Next
-  - Current Version + Release notes: Summary of what has changed since the last ASpace version upgrade or feature improvements
-  - Upgrade and version History: Chronology of and release notes for past version upgrades and feature improvements
-  - Development Roadmap: Desired, upcoming, or otherwise potential feature improvements to make the best use of the current ASpace version (i.e. not specifically tied to a version upgrade)
+- What's new
+  - Release notes for UHML's current production version of ArchivesSpace: Summary of what has changed since the last ASpace version upgrade or feature improvements; also pointer to Upgrade_History folder for past/long-term/full chronology and roadmap of future development
 - The actual local practice guide (probably split into chapters / sections)
   - Overview
   - Navigation
