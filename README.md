@@ -3,7 +3,7 @@
 Documentation for UHML's ArchivesSpace implementation(s)
 
 - Staff_User_Manual: Information about using ArchivesSpace for UHML staff
-- Upgade_History: Past and projected future of UHML's ArchivesSpace development
+- Upgade_History: Past, present, and projected future of UHML's ArchivesSpace development
   - Chronology of and release notes for past version upgrades and feature improvements
   - Development Roadmap: Desired, upcoming, or otherwise potential feature improvements to make the best use of the current ASpace version (i.e. not specifically tied to a version upgrade)
 - Workflow_Manual: Information about upgrading ArchivesSpace for UHML ArchivesSpace sysadmins

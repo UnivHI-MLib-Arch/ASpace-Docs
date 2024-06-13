@@ -5,8 +5,10 @@ File index / document outline (depending on how things end up being organized on
 - Logistics
   - Cadences
     - Version Upgrades (i.e. updating to the latest ASpace version number)
-    - Improvement Upgrades (i.e. adding functionality, increasing useability, etc. to the current version)
-    - Docs Reviews / Rewrites / Improvements (e.g. checking links, adding info in new formats such as video snippets, repackaging for other platforms, etc.)
+    - Improvement Upgrades (i.e. adding functionality to and increasing the useability of our current version)
+    - Non-upgrade improvements
+      - Documentation Reviews / Rewrites / Improvements (e.g. checking links, adding info in new formats such as video snippets, repackaging for other platforms, etc.)
+      - ASpace Data Cleanup Projects (e.g. adding normalized versions of date expressions, reparative description, container barcoding, fixing containers from original migration where both folders and boxes were listed as top containers, adding filing titles to resource records where the first word of the collection title is someone's given name, etc.)
   - Staff and Communication needs
     - Among the Core Team (i.e. the Faculty ASpace maintainer + the DNS sysdmin)
     - Between the Core Team + the CDMC Archives Subcommittee

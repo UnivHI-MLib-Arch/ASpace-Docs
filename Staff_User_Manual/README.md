@@ -8,9 +8,16 @@ File index / document outline (depending on how things end up being organized on
   - Other institituion's staff guides / local practice manuals
   - Where to find help for researchers (i.e. help guides for the PUI)
 - What's new
-  - Release notes for UHML's current production version of ArchivesSpace: Summary of what has changed since the last ASpace version upgrade or feature improvements; also pointer to Upgrade_History folder for past/long-term/full chronology and roadmap of future development
+  - Release notes for UHML's current production version of ArchivesSpace: Summary of what has changed since the last ASpace version upgrade or feature improvements; also pointer to Upgrade_History folder (q.v.) for past/long-term/full chronology and roadmap of future development
 - The actual local practice guide (probably split into chapters / sections)
   - Overview
+    - Audience: UHML staff, students, volunteers, etc. who work with ArchivesSpace
+    - Scope
+      - Covers SUI
+        - and in particular how/where local practice differs from standard...
+        - link to 'other resources' section? or should that just live here?
+      - Does not cover PUI (or backend database)
+        - Link(s) to where to go for help on PUI...
   - Navigation
     - Search
     - Browse
