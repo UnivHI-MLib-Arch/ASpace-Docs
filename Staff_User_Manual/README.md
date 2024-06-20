@@ -12,7 +12,7 @@
   - Release notes for UHML's current production version of ArchivesSpace
     - Summary of what has changed since the last ASpace version upgrade or feature improvements
     - Also pointer to Upgrade_History folder (q.v.) for past/long-term/full chronology and roadmap of future development
-- Links to other ASpace training / help resources 
+- Links to other ASpace training / help resources
   - ASpace Help Center
   - Other official ASpace resources, e.g. the YouTube channel
   - Other institituion's staff guides / local practice manuals
