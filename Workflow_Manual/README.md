@@ -7,7 +7,7 @@
     - Other UHML ASpace SUI users
     - Researchers and other UHML ASpace PUI users
   - When: Cadences
-    - Version Upgrades (i.e. updating to the latest ASpace version number)
+    - Version Upgrades (i.e. updating to a more recent ASpace version number)
     - Improvement Upgrades (i.e. adding functionality to and increasing the useability of our current version)
     - Non-upgrade improvements
   - Communication needs [This section should be moved to / subsumed within the workflows themselves]

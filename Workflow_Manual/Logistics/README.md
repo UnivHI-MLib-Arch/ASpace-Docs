@@ -9,7 +9,7 @@
   - Biennial cycle: Version upgrades and Feature upgrades in alternating years
   - Triennial cycle: Version upgrade, Feature upgrade, Non-upgrade improvement project
 - What: Types of projects
-  - Version Upgrades (i.e. updating to the latest ASpace version number)
+  - Version Upgrades (i.e. updating to a more recent ASpace version number)
   - Feature Upgrades (i.e. adding functionality to and increasing the useability of our current version)
   - Non-upgrade improvements (i.e. other projects to support our use of ASpace)
     - Documentation Reviews / Rewrites / Improvements (e.g. checking links, adding info in additional formats such as screen shots or video snippets, repackaging for other platforms, etc.)
