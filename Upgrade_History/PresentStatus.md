@@ -3,6 +3,7 @@
 ## As of: August 2024
 
 Current AS version: 3.4.1
+
 Last version update: July 2024, from v. 2.5.1
 
 Known issues lingering from last update:
