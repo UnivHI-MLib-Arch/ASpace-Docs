@@ -6,10 +6,11 @@
     - CDMC Archives Subcommittee
     - Other UHML ASpace SUI users
     - Researchers and other UHML ASpace PUI users
-  - When: Cadences
+  - What + When: Types of projects and cadences for doing them
     - Version Upgrades (i.e. updating to a more recent ASpace version number)
     - Improvement Upgrades (i.e. adding functionality to and increasing the useability of our current version)
-    - Non-upgrade improvements
+    - Non-upgrade improvements (i.e. improving our ASpace documentation, data cleanup in ASpace itsel, and so on)
+    - Cadences: Generic development cycles
   - Communication needs [This section should be moved to / subsumed within the workflows themselves]
     - Among the Core Team
     - Between the Core Team + the CDMC Archives Subcommittee
