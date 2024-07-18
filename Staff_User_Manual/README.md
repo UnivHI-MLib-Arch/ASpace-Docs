@@ -3,37 +3,38 @@
 - Overview
   - Audience: UHML staff, students, volunteers, etc. who work with ArchivesSpace
   - Scope
-    - Covers SUI
+    - Covers the SUI
       - and in particular how/where local practice differs from standard...
-      - link to 'other resources' section? or should that just live here?
-    - Does not cover PUI (or backend database)
-      - Link(s) to where to go for help on PUI...
-- Summary of what's new in the latest release
-  - Release notes for UHML's current production version of ArchivesSpace
-    - Summary of what has changed since the last ASpace version upgrade or feature improvements
-    - Also pointer to Upgrade_History folder (q.v.) for past/long-term/full chronology and roadmap of future development
-- Links to other ASpace training / help resources
+      - see [link to] 'other resources' section? for standard practice
+    - Does **not** cover the PUI (or the backend database)
+      - Link(s) to where to go for help on PUI (for researchers and/or staff users of the PUI)
+- Links to other ASpace training / help resources for the SUI
   - ASpace Help Center
   - Other official ASpace resources, e.g. the YouTube channel
-  - Other institituion's staff guides / local practice manuals
-  - Where to find help for researchers (i.e. help guides for the PUI)
-- Navigation
+  - Other institituions' staff guides / local practice manuals
+- Navigating the SUI and Setting User Preferences
   - Search
   - Browse
-  - Setting Search + Browse Defaults
+  - Setting Search + Browse column defaults
+  - Setting or changing other defaults
+    - Default note order
+    - Drop down menu default selections
+    - Default note text
 - Creating New Records
+  - [Throughout: remember to also explain how to spawn records from other records and how to link records to each other]
   - Accession records
   - Resource records
   - Archival Object records
   - Digital Object records
   - Agent/Subject records
   - Event records
+  - Assessment records
   - Location and Container records and profiles
 - Editing Existing Records
   - By hand
   - RDE (Rapid Data Entry)
   - Spreadsheet import
   - Other batch processes
-- Reports and Assessments
+- Reports, Printing, and Other Background Jobs
 - Etc.
   - (e.g. alternate packagings of all of the above, such as for a LibGuide)

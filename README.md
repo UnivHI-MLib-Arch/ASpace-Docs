@@ -5,8 +5,8 @@
   - User manual, alternate formats (same content as above repackaged, e.g. for a libguide or wiki)
 - Upgade_History: Past, present, and projected future of UHML's ArchivesSpace development
   - Chronology of and release notes for past version upgrades and feature improvements
-  - Development roadmap: Desired, upcoming, or otherwise potential feature improvements to make the best use of the current ASpace version (i.e. not specifically tied to a version upgrade)
-- Workflow_Manual: Information about upgrading ArchivesSpace for UHML ArchivesSpace sysadmins
+  - Development roadmap: Planned work over the next few years to upgrade and improve ASpace
+- Workflow_Manual: Information for UHML ArchivesSpace sysadmins about the process of upgrading ArchivesSpace
   - Logistics
   - Workflows  
 
