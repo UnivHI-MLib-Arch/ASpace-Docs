@@ -23,7 +23,7 @@ Note: Eventually, this will be a table of contents, with each list item linking 
 
 1. Embargo production server
 2. Data capture from production and creation of production instance of new version
-3. Apply local updates from step 2. to production server
+3. Apply local updates from step B to production server
 4. Inspect new version
 5. Documentation: update GitHub docs repo (Staff Manual, Update Chronology, Release Notes, and Workflow Guide)
 6. Training and outreach
@@ -42,7 +42,7 @@ Note: Eventually, this will be a table of contents, with each list item linking 
 
 [... placeholder text ...]
 
-## Non-upgrade Improvement Project
+## Non-upgrade Improvement Projects
 
 ### A) September-October: scoping the project(s) and doing preliminary groundwork  
 
