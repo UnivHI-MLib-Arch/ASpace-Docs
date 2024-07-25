@@ -1,6 +1,6 @@
 # UHML ASpace Upgrade Workflows - Overview
 
-Note: Eventually, this will be a table of contents, with each list item linking to a detailed workflow for that process/sub-task.
+Note: Each list item is further described in a detailed workflow for that process/sub-task. (Eventually these will all be linked below.)
 
 ## Version Upgrades
 
