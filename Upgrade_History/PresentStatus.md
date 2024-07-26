@@ -10,11 +10,18 @@ Last version update: July 2024 (a double upgrade, first from v. 2.5.1 to v. 2.7.
 
 - PUI Logo placement: Logo should be on the top left corner of the screen, not the top right.
   - Minor, to be fixed if/when time permits
+- Page numbers in table of contents for printed PDF finding aids out of alignment
+  - ![ASpace-PrintedPDFFindingAid-issue-2024](https://github.com/user-attachments/assets/7603dcba-7b89-4425-9be6-a5f64f4dcaee)
+  - (As of 2024.07.26: need to find out whether this issue comes from a PUI-generated or SUI-generated pdf finding aid printout)
+  - Minor, to be fixed if/when time permits
+- PUI: When searching within a collection by date, not all records are surfaced and they don't always sort properly
+  - Almost certainly caused by dates having been entered as Date Expressions (which are not machine-readable) rather than as specific Begin/End dates (which are). 
+  - Moderate, can be fixed by data remediation (e.g. installing and running the timewalk plugin) and by better data-entry practices going forward   
 - PUI Logo link functionality: Logo should act as link back to the library home page, but it is not doing so.
   - Moderate, to be fixed in next development cycle or as time permits
 - Keyword search results:
   - Unlike past versions of ASpace, searches for keywords that include terms that are part of collection titles--e.g. 'inouye' or 'saiki'--no longer bring up *all* archival objects and digital objects that are linked to the parent resource record. That is, being a child object of a resource record with the term in the title is no longer by itself considered 'relevant'; instead the search term(s) must appear somewhere within the child object itself in order for the object to be included as part of the results set.
-    - Moderate, to be worked-around / explained in user-facing help materials
+  - Moderate, to be worked-around / explained in user-facing help materials
 - Keyword search results:
   - The ways that the solr indexes are constructed for the PUI and SUI have changed considerably since v.2.5.1; in the past the two indexes were fairly independent, and changing the solr parameters in ASpace's config.rb file (to boost certain records higher in the listing than they would otherwise appear) would affect one but not the other.  Now, it seems that changing these parameters affect both indexes, but not to the same degree (i.e. the SUI seems much more sensitive than the PUI). This seeming inbalance is currently creating a situation where improving the relevancy of the search result set rankings in the SUI makes the PUI result set rankings worse, and vice-versa.
   - Relatedly, searches in the SUI and in the PUI return more or less the same set of records overall--minus things like unpublished and/or suppressed records, which don't show up in the PUI--but the order of results is almost never the same.
