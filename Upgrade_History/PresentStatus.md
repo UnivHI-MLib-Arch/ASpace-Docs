@@ -24,6 +24,8 @@ Last version update: July 2024 (a double upgrade, first from v. 2.5.1 to v. 2.7.
 
 Note: The list below includes only select highlights; for considerably more information on bug fixes, new features, etc., see [the official ArchivesSpace release notes page](https://github.com/archivesspace/archivesspace/releases). (And scroll to find the notes for a specific release.)
 
+Also nb: remember to link to corresponding sections of the ASpace Help Center manual(s) throughout (in addition to linking to relevant sections of the staff manual).
+
 - Changes in how language information is recorded in various records (especially Resources, but also Accessions, Archival Objects, and Digital Objects)
   - ... [overview of changes]
   - ... [default now set to English language /Latin script]

@@ -1,6 +1,6 @@
 # Information for UHML staff regarding its ASpace implementation
 
-[Note: In the middle of re-doing this as an ordered list so it works better as a table of contents...compare to overview of workflows]
+[Note: In the middle of re-doing this as an ordered list so it works better as a table of contents...compare to overview of workflows.  Also nb: remember to link to corresponding sections of the ASpace Help Center manual(s) throughout.]
 
 ## Overview
 
