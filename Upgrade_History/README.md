@@ -2,10 +2,11 @@
 
 - Past (Chronology.md)
   - Chronology of ASpace versions in use at UHML
-  - Release notes for past UHML ASpace implementations
+  - Release notes for past UHML ASpace implementations (eventually / will be present going forward; no past release notes yet as of 8/2024)
 - Present (PresentStatus.md)
   - Information on most recent upgrade (date, type, etc.)
   - Known issues remaining from the last upgrade
   - Notes highlighting significant changes between the current and previous versions
 - Future (Roadmap-2025-2027.md)
   - Development roadmap for future version and feature upgrades, as well as major non-upgrade improvements
+  - Former / superceded roadmaps (eventually / will be present going forward; no past roadmaps yet as of 8/2024)

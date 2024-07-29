@@ -17,8 +17,9 @@ Last version update: July 2024 (a double upgrade, first from v. 2.5.1 to v. 2.7.
 - PUI Logo link functionality: Logo should act as link back to the library home page, but it is not doing so.
   - Minor, to be fixed in next development cycle or as time permits
 - PUI: When searching within a collection by date, not all records are surfaced and they don't always sort properly
-  - Almost certainly caused by dates having been entered as Date Expressions (which are not machine-readable) rather than as specific Begin/End dates (which are). 
-  - Moderate, can be fixed by data remediation (e.g. installing and running the timewalk plugin) and by better data-entry practices going forward   
+  - Due to dates having been entered as Date Expressions (which are not machine-readable) rather than as specific Begin/End dates (which are).
+  - Moderate, can be fixed by data remediation (e.g. installing and running the timewalk plugin) and by better data-entry practices going forward
+  - NOTE: Since the issue is caused by dates being entered in the Date Expression field instead of as normalized dates, it affects all searching / sorting / filtering by date or date range, in both the PUI and the SUI.  (As a result it may be a good idea to bump this up from 'moderate' to 'major' and/or to prioritize testing and installing the Timewalk plugin...)
 - Keyword search results:
   - Unlike past versions of ASpace, searches for keywords that include terms that are part of collection titles--e.g. 'inouye' or 'saiki'--no longer bring up *all* archival objects and digital objects that are linked to the parent resource record. That is, being a child object of a resource record with the term in the title is no longer by itself considered 'relevant'; instead the search term(s) must appear somewhere within the child object itself in order for the object to be included as part of the results set.
   - Moderate, to be worked-around / explained in user-facing help materials
@@ -31,7 +32,7 @@ Last version update: July 2024 (a double upgrade, first from v. 2.5.1 to v. 2.7.
 
 Note: The list below includes only select highlights; for considerably more information on bug fixes, new features, etc., see [the official ArchivesSpace release notes page](https://github.com/archivesspace/archivesspace/releases). (And scroll to find the notes for a specific release.)
 
-Also nb: remember to link to corresponding sections of the ASpace Help Center manual(s) throughout (in addition to linking to relevant sections of the staff manual).
+Also nb: remember to link to corresponding section of [the ASpace Help Center](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/overview) throughout (in addition to linking to relevant sections of the staff manual).
 
 - Changes in how language information is recorded in various records (especially Resources, but also Accessions, Archival Objects, and Digital Objects)
   - ... [overview of changes]
