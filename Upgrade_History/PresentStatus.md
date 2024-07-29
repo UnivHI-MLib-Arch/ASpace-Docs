@@ -39,20 +39,28 @@ Also nb: remember to link to corresponding section of [the ASpace Help Center](h
   - ... [default now set to English language /Latin script]
   - ... [link to staff manual section re: how to override these defaults]
 - Importing / uploading spreadsheets is now part of the core code (instead of a plugin)
-  - ... [link to part of staff manual with instructions for uploading data via spreadsheet, and to wherever (library intranet?) users can get the new blank spreadsheet templates]
+  - ... [link to part of staff manual with instructions for uploading data via spreadsheet, and to wherever (library intranet?) users can get the new blank spreadsheet templates] (short term/temporary location: folder in Leilani's google drive)
+  - ... [link to relevant section of ASpace Help Center User Manual]
+  - ... [link to relevant videos in ASpace Help Center]
 - Greatly expanded Agent records, plus introduction of a new, 'light mode' for agents that mimics previous functionality
   - ... [overview of changes, including added fields, enhanced merging, etc.]
   - ... [full mode vs. light mode]
   - ... [agent record permissions ...]
+  - ... [link to relevant section of ASpace Help Center User Manual]
+  - ... [link to relevant videos in ASpace Help Center]
 - Various Digital Object improvements
   - ... [overview of new functionality: "make representative" feature now works, can now spawn DO description from a linked Resource, AO, or accession, etc.]
   - ... [link to staff manual section re: digital objects]
+  - ... [link to relevant section of ASpace Help Center User Manual]
+  - ... [link to relevant videos in ASpace Help Center]
 - Ability to set individual preferences for search/browse column order, default note order, default note text, etc.
   - ... [overview of changes]
   - ... [overview of current defaults]
   - ... [link to staff manual section re: how to override these defaults]
 - New reports page with additional report options
   - ... [link to staff manual section re: reports]
+  - ... [link to relevant section of ASpace Help Center User Manual]
+  - ... [link to relevant videos in ASpace Help Center]
 - Top container management improvements
   - ... [overview of new functionality: top container merge, top container csv export, etc.]
   - ... [link to staff manual section re: container instances]
