@@ -53,18 +53,24 @@ Note: The list below includes only select highlights; for considerably more info
     - *[full mode vs. light mode]*
   - *[NB: more nuanced agent record permissions]*
     - *[talk about permissions in general here, or just link to section of user manual re: how staff can ask for changes to their permissions / ask for increased permissions for student assistants beyond defaults / ask to deactivate permissions for former students & staff / and so on?]*
-  - *[link to relevant section of ASpace Help Center User Manual]*
-  - *[link to relevant videos in ASpace Help Center]*
+  - Relevant sections of the ASpace Help Center User Manual
+    - [Overview on Managing Agents](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/1993441340/Managing+Agents+as+of+v3.0)
+    - [Light Mode vs. Full Mode](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/2210365445/Agent+Record+Light+Mode+and+Full+Mode+as+of+v3.0)
+    - [Tutorial videos on Agents in theASpace Help Center](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/915341364/Agent+Records+Module)
 - Various Digital Object improvements
-  - *[overview of new functionality: "make representative" feature now works; can now spawn DO description from a linked Resource, AO, or accession; etc.]*
+  - *[overview of new functionality: The "Make Representative" feature now works; can now spawn DO description from a linked Resource, AO, or accession; etc.]*
   - *[link to staff manual section re: digital objects]*
-  - *[link to relevant section of ASpace Help Center User Manual]*
+  - *[link to relevant sections of the ASpace Help Center User Manual]*
   - *[link to relevant videos in ASpace Help Center]*
-- Ability to set individual preferences for search/browse column order, default note order, default note text, etc.
-  - *[overview of changes]*
-  - *[overview of current defaults-->see word doc for settings as of 8/2024]*
-    - *[...need to upload the word doc that captures current in-SUI default settings...]*
-  - *[link to staff manual section re: how to override these defaults]*
+- Ability to set individual preferences in the SUI
+  - The SUI now allows users to determine various aspects of the program's look, feel, and behavior.  These include (but are not limited to):
+    - Whether or not suppressed records are displayed
+    - Whether or not newly-created records are pre-populated with other defaults or if they are always completely blank
+    - What columns appear--and the order in which they appear--when searching or browsing
+    - The default note order in resources, archival objects, and digital objects
+  - As of 8/2024, the defaults for the UHML repository can be found *[link here]* (Users can override/change these defaults by opening on the drop-down menu by their user name in the upper right hand corner of the screen and clicking on "Repository Preferences (username)".)
+    - *[...need to get GitHub file link now that I've uploaded the word doc that captures current in-SUI default settings...]*
+  - *[link to staff manual section w/more info on these defaults]*
 - New reports page with additional report options
   - *[link to staff manual section re: reports]*
     - *[put a reminder/caveat that the useability of reports and the reliability of report data depends on the quality of the data in ASpace itself here, or just cover it in the staff manual?]*

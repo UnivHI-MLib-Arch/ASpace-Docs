@@ -1,14 +1,14 @@
 # Information for UHML staff regarding its ASpace implementation
 
-[Note: In the middle of re-doing this as an ordered list so it works better as a table of contents...compare to overview of workflows.  Also nb: remember to link to corresponding sections of [the ASpace Help Center](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/overview) throughout.]
+[Note: In the middle of re-doing this as an ordered list so it works better as a table of contents...but in the meantime stashing some content here that will eventually move to separate section pages.  Also nb: remember to link to corresponding sections of [the ASpace Help Center](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/overview) throughout.]
 
 ## Overview
 
-### A) Audience: UHML staff, students, volunteers, etc. who work with ArchivesSpace
+### Audience: UHML staff, students, volunteers, etc. who work with ArchivesSpace
 
 [...]
 
-### B) Scope
+### Scope
 
   1. Covers the SUI
     - and in particular how/where local practice differs from standard...
@@ -18,15 +18,15 @@
 
 ## Links to other ASpace training / help resources for the SUI
 
-### A) ASpace Help Center
+### ASpace Help Center
 
 [...link to explanation of how to set up user account; link to user manual; link to tutorial videos; link to glossary; link to library of longer training recordings]
 
-### B) Other official ASpace resources, e.g. the YouTube channel
+### Other official ASpace resources, e.g. the YouTube channel
 
 [...links to YouTube channel; ASpace official release notes; technical documentation; etc.]
 
-### C) Other institituions' staff guides / local practice manuals
+### Other institituions' staff guides / local practice manuals
 
 [...potentially consider Harvard, Yale, NYU, Denver, Utah State, etc. ...]
 
@@ -63,7 +63,31 @@
 [...]
 
 1. [when talking about the languages sub-record, link to ASpace Help Center page [here](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/917405730/Languages+Sub-Record+as+of+v2.7.0).]
-2. Also note [tutorial video on entering language information](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/1209958404/Recording+Languages+as+of+v2.7.0)
+   1. Also note [tutorial video on entering language information](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/1209958404/Recording+Languages+as+of+v2.7.0)
+2. Other ASpace Help Center resources on creating resource records:
+   1. User Manual Sections]
+      1. [Overview](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/890142825/Managing+Resources)
+      2. [Creating a Minimal Record](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/893878578/Creating+a+Minimal+Resource+Record)
+      3. [Notes](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/916947033/Notes+Sub-Records)
+      4. [Instances](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/896204987/Instances+Sub-Record+as+of+v1.5.0+-+Resources)
+   2. [Tutorial Videos](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/915144879/Resource+Records+Module)
+3. Re: Collection IDs:
+
+- A - Asia General
+- AC - China
+- AJ - Japan
+- AK - Korea
+- AO - Okinawa
+- AP - Philippines
+- AR - Russia in Asia
+- ASA - South Asia
+- ASEA - Southeast Asia
+- CAHA - Charlot / Archive of Hawai‘i Artists
+- H - Hawaiian
+- HCPC - Hawai‘i Congressional Papers Collection
+- M - Manuscripts
+- P - Pacific
+- UA - University Archives
 
 [...]
 
