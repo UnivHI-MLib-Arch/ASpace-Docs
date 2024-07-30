@@ -6,6 +6,8 @@ Current AS version: 3.4.1
 
 Last version update: July 2024 (a double upgrade, first from v. 2.5.1 to v. 2.7.1, and then from there to 3.4.1)
 
+[Add in-page links to the Known Issues + Major Changes sub-sections here for easier navigation?]
+
 ### Known issues lingering from last update
 
 - PUI Logo placement: Logo should be on the top left corner of the screen, not the top right.
@@ -35,36 +37,46 @@ Note: The list below includes only select highlights; for considerably more info
 Also nb: remember to link to corresponding section of [the ASpace Help Center](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/overview) throughout (in addition to linking to relevant sections of the staff manual).
 
 - Changes in how language information is recorded in various records (especially Resources, but also Accessions, Archival Objects, and Digital Objects)
-  - ... [overview of changes]
-  - ... [default now set to English language /Latin script]
-  - ... [link to staff manual section re: how to override these defaults]
-- Importing / uploading spreadsheets is now part of the core code (instead of a plugin)
-  - ... [link to part of staff manual with instructions for uploading data via spreadsheet, and to wherever (library intranet?) users can get the new blank spreadsheet templates] (short term/temporary location: folder in Leilani's google drive)
-  - ... [link to relevant section of ASpace Help Center User Manual]
-  - ... [link to relevant videos in ASpace Help Center]
-- Greatly expanded Agent records, plus introduction of a new, 'light mode' for agents that mimics previous functionality
-  - ... [overview of changes, including added fields, enhanced merging, etc.]
-  - ... [full mode vs. light mode]
-  - ... [agent record permissions ...]
-  - ... [link to relevant section of ASpace Help Center User Manual]
-  - ... [link to relevant videos in ASpace Help Center]
+  - Language information--(language of materials, language of description, script of materials, and script of description)--is now collected in its own dedicated subrecord instead of being spread out in multiple places in, e.g., resource, accession, digital object, and archival object records.  
+  - Some fields which used to be optional (or which did not previously exist) are now required:
+    - Resource records require language of materials, language of description, and script of description
+  - To prevent encoding errors (for example the language of materials being inadvertently listed as "Elamite" because it is the option in the controlled value list next to "English"), the default for language of materials and language of description is now set to English language, and the default for script of materials and script of description is now set to Latin.
+  - *[link to staff manual section re: how to override these defaults]*
+- Importing / uploading spreadsheets is now part of the core code (instead of a plugin, as previously was the case), and so there are now new spreadsheet templates to use to upload archival objects, accessions, assessments, digital objects, and so on.
+  - *[link to part of staff manual with instructions for uploading data via spreadsheet]*
+  - *[link to wherever (library intranet?) users can get the new blank spreadsheet templates]*
+    - Short term/temporary location the meantime: Email Leilani for link and then login w/UH id to access
+  - Relevant sections of ASpace Help Center User Manual
+    - [Overview of bulk import via spreadsheet](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/894566467/Importing+Records+Overview)
+    - [Importing archival object and digital object records](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/1173913646/Import+Archival+Objects+from+Excel+or+CSV+File+from+v2.8.1)
+    - [Importing accession records](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/894435410/Importing+Accession+Data+or+Digital+Object+Data+from+a+CSV+File)
+  - Greatly expanded Agent records, plus introduction of a new, 'light mode' for agents that mimics previous functionality
+  - *[overview of changes, including added fields, enhanced merging, etc.]*
+  - *[full mode vs. light mode]*
+  - *[NB: more nuanced agent record permissions]*
+    - *[talk about permissions in general here, or just link to section of user manual re: how staff can ask for changes to their permissions / ask for increased permissions for student assistants beyond defaults / ask to deactivate permissions for former students & staff / and so on?]*
+  - *[link to relevant section of ASpace Help Center User Manual]*
+  - *[link to relevant videos in ASpace Help Center]*
 - Various Digital Object improvements
-  - ... [overview of new functionality: "make representative" feature now works, can now spawn DO description from a linked Resource, AO, or accession, etc.]
-  - ... [link to staff manual section re: digital objects]
-  - ... [link to relevant section of ASpace Help Center User Manual]
-  - ... [link to relevant videos in ASpace Help Center]
+  - *[overview of new functionality: "make representative" feature now works; can now spawn DO description from a linked Resource, AO, or accession; etc.]*
+  - *[link to staff manual section re: digital objects]*
+  - *[link to relevant section of ASpace Help Center User Manual]*
+  - *[link to relevant videos in ASpace Help Center]*
 - Ability to set individual preferences for search/browse column order, default note order, default note text, etc.
-  - ... [overview of changes]
-  - ... [overview of current defaults]
-  - ... [link to staff manual section re: how to override these defaults]
+  - *[overview of changes]*
+  - *[overview of current defaults-->see word doc for settings as of 8/2024]*
+    - *[...need to upload the word doc that captures current in-SUI default settings...]*
+  - *[link to staff manual section re: how to override these defaults]*
 - New reports page with additional report options
-  - ... [link to staff manual section re: reports]
-  - ... [link to relevant section of ASpace Help Center User Manual]
-  - ... [link to relevant videos in ASpace Help Center]
+  - *[link to staff manual section re: reports]*
+    - *[put a reminder/caveat that the useability of reports and the reliability of report data depends on the quality of the data in ASpace itself here, or just cover it in the staff manual?]*
+  - *[link to relevant section of ASpace Help Center User Manual]*
+  - *[link to relevant videos in ASpace Help Center]*
 - Top container management improvements
-  - ... [overview of new functionality: top container merge, top container csv export, etc.]
-  - ... [link to staff manual section re: container instances]
-- Other assorted changes
-  - Accession records can now be linked to individual Archival Objects (no longer just to Resource records) ... [link to staff manual section]
-  - Users can update their own SUI passwords ... [link to staff manual section]
-  - Can now import subjects via csv upload ... [link to staff manual section]
+  - *[overview of new functionality: top container merge, top container csv export, etc.]*
+  - *[link to staff manual section re: container instances]*
+  - *[link to relevant section of ASpace Help Center User Manual]*
+  - *[link to relevant videos in ASpace Help Center]*- Other assorted changes
+  - Accession records can now be linked to individual Archival Objects (no longer just to Resource records) ... *[link to staff manual section]*
+  - Users can update their own SUI passwords ... *[link to staff manual section]*
+  - Can now import subjects via csv upload ... *[link to staff manual section]*

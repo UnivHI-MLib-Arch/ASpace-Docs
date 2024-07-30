@@ -47,7 +47,7 @@
 ### D) Setting or changing other defaults
 
   1. Default note order
-  2. Drop down menu default selections
+  2. Drop down menu default selections (notably for languages)
   3. Default note text
 
 ## Creating New Records
@@ -59,6 +59,11 @@
 [...]
 
 ### B) Resource records
+
+[...]
+
+1. [when talking about the languages sub-record, link to ASpace Help Center page [here](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/917405730/Languages+Sub-Record+as+of+v2.7.0).]
+2. Also note [tutorial video on entering language information](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/1209958404/Recording+Languages+as+of+v2.7.0)
 
 [...]
 
