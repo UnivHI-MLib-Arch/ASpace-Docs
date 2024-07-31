@@ -39,7 +39,8 @@ Note: The list below includes only select highlights; for considerably more info
   - Some fields which used to be optional (or which did not previously exist) are now required:
     - Resource records require language of materials, language of description, and script of description
   - To prevent encoding errors (for example the language of materials being inadvertently listed as "Elamite" because it is the option in the controlled value list next to "English"), the defaults for language of materials and language of description are now set to English, and the defaults for script of materials and script of description are now set to Latin.
-  - *[link to staff manual section re: how to override these defaults]*
+    - (Users can override these defaults by clicking the 'x' on the right side of the Language or Script box and then selecting the desired language or script from the drop down menu.)
+
 - Importing / uploading spreadsheets is now part of the core code (instead of a plugin, as previously was the case), and so there are now new spreadsheet templates to use to upload archival objects, accessions, assessments, digital objects, and so on.
   - *[link to part of staff manual with instructions for uploading data via spreadsheet]*
   - *[link to wherever (library intranet?) users can get the new blank spreadsheet templates]*
@@ -48,15 +49,18 @@ Note: The list below includes only select highlights; for considerably more info
     - [Overview of bulk import via spreadsheet](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/894566467/Importing+Records+Overview)
     - [Importing archival object and digital object records](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/1173913646/Import+Archival+Objects+from+Excel+or+CSV+File+from+v2.8.1)
     - [Importing accession records](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/894435410/Importing+Accession+Data+or+Digital+Object+Data+from+a+CSV+File)
-- Greatly expanded Agent records, plus introduction of a new, 'light mode' for agents that mimics previous functionality
-  - *[overview of changes, including added fields, enhanced merging, etc.]*
-    - *[full mode vs. light mode]*
-  - *[NB: more nuanced agent record permissions]*
-    - *[talk about permissions in general here, or just link to section of user manual re: how staff can ask for changes to their permissions / ask for increased permissions for student assistants beyond defaults / ask to deactivate permissions for former students & staff / and so on?]*
-  - Relevant sections of the ASpace Help Center User Manual
-    - [Overview on Managing Agents](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/1993441340/Managing+Agents+as+of+v3.0)
-    - [Light Mode vs. Full Mode](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/2210365445/Agent+Record+Light+Mode+and+Full+Mode+as+of+v3.0)
-    - [Tutorial videos on Agents in theASpace Help Center](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/915341364/Agent+Records+Module)
+
+#### Greatly expanded Agent records, plus introduction of a new, 'light mode' for agents that mimics previous functionality
+
+- *[overview of changes, including added fields, enhanced merging, etc.]*
+  - *[full mode vs. light mode]*
+- *[NB: more nuanced agent record permissions]*
+  - *[talk about permissions in general here, or just link to section of user manual re: how staff can ask for changes to their permissions / ask for increased permissions for student assistants beyond defaults / ask to deactivate permissions for former students & staff / and so on?]*
+- Relevant sections of the ASpace Help Center User Manual
+  - [Overview on Managing Agents](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/1993441340/Managing+Agents+as+of+v3.0)
+  - [Light Mode vs. Full Mode](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/2210365445/Agent+Record+Light+Mode+and+Full+Mode+as+of+v3.0)
+  - [Tutorial videos on Agents in theASpace Help Center](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/915341364/Agent+Records+Module)
+
 - Various Digital Object improvements
   - *[overview of new functionality: The "Make Representative" feature now works; can now spawn DO description from a linked Resource, AO, or accession; etc.]*
   - *[link to staff manual section re: digital objects]*
