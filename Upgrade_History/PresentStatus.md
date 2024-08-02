@@ -6,7 +6,7 @@ Current AS version: 3.4.1
 
 Last version update: July 2024 (a double upgrade, first from v. 2.5.1 to v. 2.7.1, and then from there to 3.4.1)
 
-On this page: *[nb: these links go to the equivalent spots on the main branch so that they won't need to be updated when this branch is merged back; until the merge, however, they don't actually link to the sections on this page.]*
+On this page:
 
 - [Known issues](https://github.com/UnivHI-MLib-Arch/ASpace-Docs/blob/main/Upgrade_History/PresentStatus.md#known-issues-lingering-from-last-update)
 - [Major changes](https://github.com/UnivHI-MLib-Arch/ASpace-Docs/blob/main/Upgrade_History/PresentStatus.md#major-changes-between-current-production-version-341-and-previous-production-version-251)
@@ -78,7 +78,7 @@ Note: The list below includes only select highlights; for considerably more info
     - Permission to edit agent records in full mode is now separate from permission to work with agent records in general (i.e. light mode)
     - Additionally, permission to see the Contact Infomation section of records (e.g. for agents who are donors) is independent of whether a user has permissions for light mode or full mode.
     - Leilani will be taking this to the Archives Subcommittee, but for now:
-      - Catalogers can edit records in full mode but not see contact information
+      - Catalogers can edit records in full mode but cannot see contact information
       - Other people with staff-level permissions can see contact information but can only edit in light mode (it is not yet clear whether archivists/librarians can view full-mode-only data, since we don't yet have agent records that include this extra information)
       - Everyone else (notably students) can neither see contact information nor edit records in full mode.  (Again, since this is new to us, there's the same caveat as above re: viewing full-mode-only fields.)
 - *[link to section of the staff manual re: agent records; possibly also link to section re: requesting changes in permissions for yourself or your students/project staff]*
@@ -89,7 +89,7 @@ Note: The list below includes only select highlights; for considerably more info
 
 #### Various Digital Object improvements
 
-- New and/or improved functioality includes:
+- New and/or improved functionality includes:
   - The "Make Representative" feature now works: a specific file (or version of a file) can now be set as the 'representative version', which means that it will be the one that is given pride of place in the PUI display of that digital object record or digital component record
   - (A 'Make Representative' button had existed in DO records in 2.5.1, but it didn't do anything.)
   - Description data for Digital Object records can now be carried over when spawning a DO from a linked Resource, Archival Object, or Accession record.
@@ -134,8 +134,9 @@ Note: The list below includes only select highlights; for considerably more info
   - Finding Aid Information data shows up at the bottom of top-level resource/collection records, and Repository information data shows up at the bottom of most (if not all) PUI records
   - (Note: we haven't entered repository-level contact data into ASpace--and so this section shows up as blank--because our collections don't all have the same contact details.)
   - *[link to staff manual section on where in a resource record to enter contact information (and how), since it will be different for each department]*
-- Accession records can now be linked to individual Archival Objects (instead of just to Resource records)
-  - *[link to staff manual section]*
+- Accession records can now be linked to individual Archival Objects (instead of just to Resource records); relatedly Archival Objects can be spawned from Accession records
+  - *[link to staff manual section(s)]*
+  - [ASpace Help Center User Manual page on spawning AOs from Accession records](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/3169943567/Spawning+an+Archival+Object+from+an+Accession+Record)
 - Users can update their own SUI passwords
   - *[link to staff manual section]*
   - [ASpace Help Center User Manual page on resetting your password](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/3182166017/Resetting+Your+Own+User+Password+as+of+v3.3)
