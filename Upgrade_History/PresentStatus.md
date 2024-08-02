@@ -69,10 +69,19 @@ Note: The list below includes only select highlights; for considerably more info
 
 #### Greatly expanded Agent records, plus introduction of a new, 'light mode' for agents that mimics previous functionality
 
-- *[overview of changes, including added fields, enhanced merging, etc.]*
-  - *[full mode vs. light mode]*
-- *[NB re: more nuanced agent record permissions]*
-  - *[talk about permissions in general here?  Or just link to section of user manual re: how staff can ask for changes to their permissions / ask for increased permissions for student assistants beyond defaults / ask to deactivate permissions for former students & staff / and so on?  --> If not discussed here, then should at least link to staff manual section for local practice...]*
+- Agent records have had a complete overhaul
+  - Improved functionality: better merge capabilities, more import/export options, etc.
+  - Many more fields
+    - In order to better comply with EAC-CPF and various authority control standards, agent records now can capture much more information about agents
+    - The view that incorporates all of these new fields is now called "Full Mode", while a view that matches the limited selection of fields that had previously comprised agent records is now called "Light Mode"
+  - Permissions for agent records have become more nuanced:
+    - Permission to edit agent records in full mode is now separate from permission to work with agent records in general (i.e. light mode)
+    - Additionally, permission to see the Contact Infomation section of records (e.g. for agents who are donors) is independent of whether a user has permissions for light mode or full mode.
+    - Leilani will be taking this to the Archives Subcommittee, but for now:
+      - Catalogers can edit records in full mode but not see contact information
+      - Other people with staff-level permissions can see contact information but can only edit in light mode (it is not yet clear whether archivists/librarians can view full-mode-only data, since we don't yet have agent records that include this extra information)
+      - Everyone else (notably students) can neither see contact information nor edit records in full mode.  (Again, since this is new to us, there's the same caveat as above re: viewing full-mode-only fields.)
+- *[link to section of the staff manual re: agent records; possibly also link to section re: requesting changes in permissions for yourself or your students/project staff]*
 - Relevant sections of the ASpace Help Center User Manual
   - [Overview on Managing Agents](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/1993441340/Managing+Agents+as+of+v3.0)
   - [Light Mode vs. Full Mode](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/2210365445/Agent+Record+Light+Mode+and+Full+Mode+as+of+v3.0)
@@ -80,10 +89,16 @@ Note: The list below includes only select highlights; for considerably more info
 
 #### Various Digital Object improvements
 
-- *[overview of new functionality: The "Make Representative" feature now works; can now spawn DO description from a linked Resource, AO, or accession; etc.]*
+- New and/or improved functioality includes:
+  - The "Make Representative" feature now works: a specific file (or version of a file) can now be set as the 'representative version', which means that it will be the one that is given pride of place in the PUI display of that digital object record or digital component record
+  - (A 'Make Representative' button had existed in DO records in 2.5.1, but it didn't do anything.)
+  - Description data for Digital Object records can now be carried over when spawning a DO from a linked Resource, Archival Object, or Accession record.
 - *[link to staff manual section re: digital objects]*
-- *[link to relevant sections of the ASpace Help Center User Manual]*
-- *[link to relevant videos in ASpace Help Center]*
+- Related sections of the ASpace Help Center User Manual
+  - [Overview of Digital Objects](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/890142831/Managing+Digital+Objects)
+  - [Overview of the Make Representative Functionality](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/3364519945/Make+Representative+Functionality+as+of+v3.4)
+  - [Spawning Digital Objects](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/3306520619/Spawning+Digital+Object+Records+as+of+v3.4.0)
+- [Training video on ASpace YouTube Channel regarding the improvements](https://www.youtube.com/watch?v=RfPi8BtFHA4)
 
 #### Ability to set individual preferences in the SUI
 
@@ -99,7 +114,7 @@ Note: The list below includes only select highlights; for considerably more info
 #### New reports page with additional report options
 
 - *[link to staff manual section re: reports]*
-  - *[put a reminder/caveat that the useability of reports and the reliability of report data depends on the quality of the data in ASpace itself here?  (E.g. in order to get results from a shelf list report you need to have location records, archival object records with instances that are linked top containers, and those top container records must be assigned to a location record, and so this report won't be useful since we haven't really started using locations yet.)   Or just cover all that in the staff manual?]*
+  - *[put a reminder/caveat that the useability of reports and the reliability of report data depends on the quality of the data in ASpace itself here?--(E.g. in order to get results from a shelf list report you need to have location records, archival object records with instances that are linked top containers, and those top container records must be assigned to a location record, and so this report won't be useful since we haven't really started using locations yet.)--Or just cover all that in the staff manual?]*
 - [ASpace Help Center User Manual page on navigating reports](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/894664734/Finding+the+Default+Reports+Page)
 - [ASpace Help Center User Manual annotated list of reports](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/894501015/Choosing+a+Default+Report+as+of+v2.2.2)
 
@@ -107,7 +122,7 @@ Note: The list below includes only select highlights; for considerably more info
 
 - There is a new interface for viewing and managing top container records.  Among other things, new options include merging top container records and importing top container data in csv format
 - *[link to staff manual section re: container instances]*
-- [ArchivesSpace Help Center resources]
+- ArchivesSpace Help Center resources
   - [ASpace User Manual overview page on managing top containers](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/894435365/Managing+Top+Containers)
   - [ASpace User Manual page on performing bulk top container actions](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/894402619/Performing+Bulk+Operations+on+Top+Containers)
   - [ASpace User Manual page on importing and linking top container records via spreadsheet](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/2457075717/Importing+and+Linking+Top+Containers+via+Spreadsheet)
@@ -115,6 +130,10 @@ Note: The list below includes only select highlights; for considerably more info
 
 #### Other assorted changes
 
+- Finding Aid Information fields and Repository information data are now visible in the PUI
+  - Finding Aid Information data shows up at the bottom of top-level resource/collection records, and Repository information data shows up at the bottom of most (if not all) PUI records
+  - (Note: we haven't entered repository-level contact data into ASpace--and so this section shows up as blank--because our collections don't all have the same contact details.)
+  - *[link to staff manual section on where in a resource record to enter contact information (and how), since it will be different for each department]*
 - Accession records can now be linked to individual Archival Objects (instead of just to Resource records)
   - *[link to staff manual section]*
 - Users can update their own SUI passwords
@@ -122,3 +141,4 @@ Note: The list below includes only select highlights; for considerably more info
   - [ASpace Help Center User Manual page on resetting your password](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/3182166017/Resetting+Your+Own+User+Password+as+of+v3.3)
 - Can now import subjects via csv upload
   - *[link to staff manual section... Also maybe a caveat / reminder that only catalogers should be doing this? Or is it enough to just mention that in the staff manual section?]*
+- Bugfixes in reorder mode--should now be easier to use
