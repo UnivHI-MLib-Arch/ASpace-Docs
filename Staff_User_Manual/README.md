@@ -1,6 +1,10 @@
 # Information for UHML staff regarding its ASpace implementation
 
-[Note: In the middle of re-doing this as an ordered list so it works better as a table of contents...but in the meantime stashing some content here that will eventually move to separate section pages.  Also nb: remember to link to corresponding sections of [the ASpace Help Center](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/overview) throughout.]
+On this page:
+
+- [Section I: Overview](https://github.com/UnivHI-MLib-Arch/ASpace-Docs/tree/main/Staff_User_Manual#i-overview)
+- [Section II: Links to other training / help resources](https://github.com/UnivHI-MLib-Arch/ASpace-Docs/tree/main/Staff_User_Manual#ii-links-to-other-aspace-training--help-resources-for-the-sui)
+- Tables of contents for Sections III-VII of the manual *[Will need to link all of these to their proper places]*
 
 ## I) Overview
 
