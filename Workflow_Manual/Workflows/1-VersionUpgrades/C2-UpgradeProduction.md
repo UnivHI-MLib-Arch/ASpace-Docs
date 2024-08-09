@@ -8,3 +8,12 @@
   3. diff config.rb files to apply just the configured settings
   4. delete the solr core and recreate using the configs specific to our version https://github.com/archivesspace/archivesspace/blob/v2.7.1/solr/ --> except note, the '2.7.1' would need to be replaced with whatever our upgrade target version was/is.
   5. delete the indexer_pui_state folder after full staff side indexing on process start.
+
+Other notes:
+
+When reindexing: Delete:
+
+- \archivesspace\data\indexer_state
+- \archivesspace\data\indexer_pui\state
+
+Also see ASpace tech docs page on soft reindexing vs. hard reindexing.  (Logs are available at: archivesspace\logs\)
