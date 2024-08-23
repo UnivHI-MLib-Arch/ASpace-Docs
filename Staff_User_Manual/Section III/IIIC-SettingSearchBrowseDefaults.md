@@ -9,4 +9,4 @@
   - Users can override/change these defaults by opening on the drop-down menu by their user name in the upper right hand corner of the screen and clicking on "Repository Preferences (username)".
 - [ArchivesSpace Help Center User Manual page on these settings](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/892239901/Setting+Preferences+v2.8.1+through+v3.4.1)
 
-[...]
+*[...add note re: potential need for users to change their user default settings--e.g. for columns visible when browsing accessions and resource records--since these user settings override the global defaults, and the out of the box settings could be improved. (and have been improved, with the revised global defaults...)]*

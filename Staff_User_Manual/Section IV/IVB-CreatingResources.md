@@ -33,3 +33,9 @@
    15. UA - University Archives
 3. Notes
    1. Policy decision and/or staff guide instructions: how to set personal default text for citations and other notes.  (and why they're NOT set as global defaults)
+
+*[...add note re: entering "repository" contact info for each librarian's/archivist's collections, given that they're all different, even within departments: “Looking at the PUI, I think putting this in the Conditions Governing Access Notes works pretty well--it's not in the accordion of notes, so it's always visible, and it's pretty high up on the page.  I'll go ahead and put this recommendation into my guidance for that field when I update the Resource Records tab of the ASpace LibGuide.”]*
+
+*[Re: visibility of rights and restrictions in the PUI: double-check the new list of fields visible in the PUI to see whether the following note from march 2022 email to KKL is still true/accurate: "The only one of these that I have any issue with would be deleting the info in the Rights Statement box; I would like to update it instead of deleting it completely.   (I want people using ArchivesSpace to know that data entered into Rights Statements is only available on the staff side; it doesn't show up in the public interface.  So, anyone wanting to convey rights information to patrons should use a Conditions Governing Use note either in addition to or instead of a Rights Statement.)".]*
+
+*[Also review 2022 annual forum workshop: Using the ArchivesSpace Rights Module. (See trello board for link to the recording)]*
