@@ -1,5 +1,11 @@
 # [incomplete draft outline; what steps are present are not necessarily in order]
 
+## Timing
+
+Late May (more or less, aim to have it done sometime in the last two weeks of the month)
+
+## Tasks
+
 - Remember: location records often don't update / show up on their own: delete location logs and/or run script to touch them all.
 - other items to be remembered noted by Wing (in his email of 5.24.2024):
   "I'm listing a number of step that I forgot to do initially in no particular order."
