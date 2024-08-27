@@ -4,6 +4,7 @@
 
 - Communication regarding the upcoming embargo: early May (more or less; specifcally aim for the first two weeks of the month)
 - Embargo itself: Mid May - Mid July (potentially, but may be a shorter duration, depending on how long steps C2-C4 take)
+- NB: Embargo should not start until after the end of the Spring term! (Usually mid-May[ish], but always double-check the specific date; ideally the embargo should start towards the beginning of the interim week between the Spring term and Summer Session I.)
 
 ## Tasks
 
