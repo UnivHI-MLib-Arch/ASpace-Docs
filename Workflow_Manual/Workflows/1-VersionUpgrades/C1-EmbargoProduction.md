@@ -9,4 +9,4 @@
 ## Tasks
 
 - *[copy and generalize timeline portion of the 'Embargo Emails' document; also upload (as separate file) document with sample versions of the various embargo-related emails]*
-- *[Also note: It's may be a good idea to place a notice about the embargo + upgrade somewhere on the ASpace PUI itself to give users from outside the Library notice of the process as well...]*
+- *[Also note: It may be a good idea to place a notice about the embargo + upgrade somewhere on the ASpace PUI itself to give users from outside the Library notice of the process as well...]*
