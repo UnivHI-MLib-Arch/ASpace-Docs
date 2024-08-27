@@ -2,7 +2,7 @@
 
 ## Timing
 
-Late June - Early July (more or less, aim to do this roughly June 16th - July 10th)
+Mid June - Early July (more or less, aim to do this roughly June 16th - July 10th)
 
 ## Tasks
 

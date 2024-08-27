@@ -2,7 +2,7 @@
 
 ## Timing
 
-Mid January - Mid February (more or less; specifcally aim for MLK Day - Presidents' Day)
+Mid January - Late February (more or less; specifcally aim for MLK Day - Presidents' Day)
 
 ## Tasks
 
