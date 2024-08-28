@@ -1,5 +1,11 @@
 # [incomplete draft outline; what steps are present are not necessarily in order]
 
+## Timing
+
+Mid May - Mid June (more or less, aim for May 16th - June 15th)
+
+## Tasks
+
 Note: if the changes/updates require reindexing: Delete:
 
 - \archivesspace\data\indexer_state
@@ -11,3 +17,5 @@ Also see ASpace tech docs page on soft reindexing vs. hard reindexing.  (Logs ar
   - Controlled Value List: ISO 639-2: Language (of both materials and description)  [in resource, accession, and object records]: English set as default
   - Controlled Value List: ISO 1xxxx: Script (of both materials and description) [in resource, accession, and object records]: Latin set as default
   - Repository / Global Default settings:  see uploaded word doc w/details
+
+- *[also figure out / determine: how is this step different from the parallel step in a version upgrade?]*
