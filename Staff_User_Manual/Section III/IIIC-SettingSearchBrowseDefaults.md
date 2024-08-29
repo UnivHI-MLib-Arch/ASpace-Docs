@@ -1,4 +1,6 @@
-# [incomplete draft outline; what steps are present are not necessarily in order]
+# Section III Part C: Setting Defaults for the SUI's Search and Browse Results Lists
+
+**[incomplete draft outline; what steps are present are not necessarily in order]**
 
 - The SUI now allows users to determine various aspects of the program's look, feel, and behavior.  These include (but are not limited to):
   - Whether or not suppressed records are displayed

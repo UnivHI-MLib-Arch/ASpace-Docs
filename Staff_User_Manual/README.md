@@ -1,4 +1,4 @@
-# Information for UHML staff regarding its ASpace implementation
+# Local Practice Guide for UHML Staff on Using the ASpace Staff User Interface [SUI]
 
 On this page:
 
@@ -20,7 +20,7 @@ On this page:
   2. This manual does **not** cover the Public User Interface [PUI], or the backend databases (i.e. solr for the search index and MySQL for the underlying data)
     - *[include link(s) to where to go for help on PUI (for researchers and/or staff users of the PUI)]*
 
-## II) Links to other ASpace training / help resources for the SUI
+## II) Links to Other ASpace Training / Help Resources for the SUI
 
 ### ASpace Help Center
 
@@ -40,7 +40,7 @@ On this page:
 
 ### B) Browse
 
-### C) Setting Search + Browse column defaults
+### C) Setting search + browse column defaults
 
 ### D) Setting or changing other defaults
 
@@ -54,36 +54,38 @@ On this page:
 
 ### B) Resource records
 
-### C) Archival Object records
+### C) Archival object records
 
-### D) Digital Object records
+### D) Digital object records
 
-### E) Agent/Subject records
+### E) Agent and subject records
 
 ### F) Event records
 
 ### G) Assessment records
 
-### H) Location and Container records and profiles
+### H) Location and container records and profiles
 
 ## V) Adding Data to Existing Records
 
-### A) By hand
+### A) Overview / comparison of methods
 
-### B) RDE (Rapid Data Entry)
+### B) Adding by hand
 
-### C) Spreadsheet import
+### C) Adding using the RDE (Rapid Data Entry) mode
 
-### D) Other batch processes
+### D) Upload via spreadsheet imports
+
+### E) Other batch processes for importing data
 
 ## VI) Reports, Printing, and Other Background Jobs
 
-### A) Printing (Generating PDFs from the SUI)
+### A) Printing (i.e. generating PDF finding aids from the SUI)
 
-### B) Common Reports
+### B) Common reports
 
-### C) Other Background Jobs
+### C) Other background jobs
 
-## VII) Other Versions
+## VII) Other Versions of this Guide
 
 *[e.g. alternate packagings of all of the above, such as for a LibGuide or wiki]*

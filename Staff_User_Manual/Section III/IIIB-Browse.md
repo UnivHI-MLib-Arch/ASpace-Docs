@@ -1,4 +1,6 @@
-# [incomplete draft outline; what steps are present are not necessarily in order]
+# Section III Part B: Browsing the ASpace SUI
+
+**[incomplete draft outline; what steps are present are not necessarily in order]**
 
 1. browsing main record types (accessions, resources, etc.)
 2. browsing less common record types (agents, subjects, events, etc.)

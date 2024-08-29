@@ -1,6 +1,8 @@
-# [incomplete draft outline; what steps are present are not necessarily in order]
+# Section IV Part G: Creating Assessment Records
 
-[Throughout: remember to also explain how to spawn records from other records and how to link records to each other.  Also, since this is a module we haven't used much--if at all--before, remember to add overview / purpose / who creates / why information.]
+**[incomplete draft outline; what steps are present are not necessarily in order]**
+
+[Throughout: remember to explain how to spawn records from other records and how to link records to each other.  Also, since this is a module we haven't used much--if at all--before, remember to add overview / purpose / who creates / why information.]
 
 *[See [recording of assessments module training from February 2022](https://www.youtube.com/watch?v=h1lmWsrkz4U)]*
 
