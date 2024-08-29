@@ -1,4 +1,4 @@
-# Section V Part D: Uploading Data via Spreadsheet Imports
+# Section V Part C: Uploading Data via Spreadsheet Imports
 
 **[incomplete draft outline; what steps are present are not necessarily in order]**
 

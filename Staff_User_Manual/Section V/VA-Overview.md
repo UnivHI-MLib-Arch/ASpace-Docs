@@ -1,5 +1,5 @@
-# Section V Part A: Overview of the Diffferent Methods by which to Add Data to the SUI
+# Section V Part A: Overview of SUI Bulk Data Entry Methods
 
 **[incomplete draft outline; what steps are present are not necessarily in order]**
 
-*[compare manual data entry, RDE, spreadsheets, and API/etc.]*
+*[compare manual data entry (as described in Section IV) with RDE, spreadsheets, and API/etc.]*

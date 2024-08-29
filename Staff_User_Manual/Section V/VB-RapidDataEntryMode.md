@@ -1,4 +1,4 @@
-# Section V Part C: Adding Data using the SUI's Rapid Data [RDE] Entry Mode
+# Section V Part B: Adding Data using the SUI's Rapid Data [RDE] Entry Mode
 
 **[incomplete draft outline; what steps are present are not necessarily in order]**
 

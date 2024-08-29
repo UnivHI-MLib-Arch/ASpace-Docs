@@ -1,4 +1,4 @@
-# Section V Part B: Adding Data by Hand
+# Section V Part D: Other Batch Processes for Importing Data into the SUI
 
 **[incomplete draft outline; what steps are present are not necessarily in order]**
 
