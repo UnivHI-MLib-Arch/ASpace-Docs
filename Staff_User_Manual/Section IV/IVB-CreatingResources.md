@@ -2,9 +2,37 @@
 
 **[incomplete draft outline; what steps are present are not necessarily in order]**
 
-[Throughout: remember to also explain how to spawn records from other records and how to link records to each other]
+*[Throughout: remember to also explain how to spawn records from other records and how to link records to each other.  Also remember to link to the relevant section(s) of the ASpace Help Center's User Manual.]*
+
+## Overview
+
+**Purpose**:
+
+**Who creates, and when**:
+
+**To Create a New Record**:
 
 [...]
+
+## Fields in Resource Records
+
+### Minimum Fields for Good Practice
+
+[...]
+
+### Desirable Fields
+
+[...]
+
+### Optional Fields
+
+[...]
+
+### Do Not Use These Fields
+
+[...]
+
+## [...]
 
 1. Re: language / script subrecord
    1. To override default settings: Users can override these defaults by clicking the 'x' on the right side of the Language or Script box and then selecting the desired language or script from the drop down menu.

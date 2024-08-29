@@ -2,7 +2,36 @@
 
 **[incomplete draft outline; what steps are present are not necessarily in order]**
 
-[Throughout: remember to also explain how to spawn records from other records and how to link records to each other]
+*[Throughout: remember to also explain how to spawn records from other records and how to link records to each other. Also remember to link to the relevant section(s) of the ASpace Help Center's User Manual.]*
+
+## Overview
+
+**Purpose**:
+
+**Who creates, and when**:
+
+**To Create a New Record**:
+[...]
+
+## Fields in Records
+
+### Minimum Fields for Good Practice
+
+[...]
+
+### Desirable Fields
+
+[...]
+
+### Optional Fields
+
+[...]
+
+### Do Not Use These Fields
+
+[...]
+
+## [...]
 
 *[also note use of container records in physical instances; link to archival objects subsection.  (and possibly note that accessions and top-level resources can have container instances, but that we prefer to attach/link them to archival objects instead, if possible.)]*
 
