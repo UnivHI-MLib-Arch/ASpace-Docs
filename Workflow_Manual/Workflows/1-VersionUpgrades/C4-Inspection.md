@@ -1,4 +1,12 @@
-# [incomplete draft outline; what steps are present are not necessarily in order]
+# Version Upgrade Process: Section C Part 4: Inspect Upgraded Production Instance
+
+**[incomplete draft outline; what steps are present are not necessarily in order]**
+
+## Timing
+
+Mid June - Early July (more or less, aim to do this roughly June 16th - July 10th)
+
+## Tasks
 
 - Invite Archives Subcommittee to help 'kick the tires' as it were...
 - [See Testing Protocol document; decide whether to insert entire doc here (or simply upload it as a separate file) or to instead parse it out into specific sub-sections and only include most relevant items at this stage]

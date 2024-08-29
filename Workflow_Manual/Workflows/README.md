@@ -57,14 +57,13 @@ Note: Each list item is further described in a detailed workflow for that proces
 ### A) September-October: scoping the project(s) and doing preliminary groundwork  
 
 1. Select project(s)
-2. Determine scope of project(s),  as well as goals/metrics for completion
-3. Create project plan(s)
+2. Create project plan(s), including project scope, goals/metrics for completion, etc.
 
-### B) November-May: working on the project(s)
+### B) November-June: working on the project(s)
 
 1. Do the work
 2. Document the process
-3. Keep ArchivesSubcommittee updated
+3. Keep stakeholders updated
 
 ### C) July-August: preparing deliverables / documenting the work / training and outreach
 

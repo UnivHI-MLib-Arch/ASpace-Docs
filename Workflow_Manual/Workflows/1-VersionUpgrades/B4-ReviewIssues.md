@@ -1,4 +1,12 @@
-# [incomplete draft outline; what steps are present are not necessarily in order]
+# Version Upgrade Process: Section B Part 4: Double-Check Things That Have Been Issues in Past Upgrades
+
+**[incomplete draft outline; what steps are present are not necessarily in order]**
+
+## Timing
+
+Mid March - Late April (more or less; specifcally aim for March 16th - April 20th)
+
+## Tasks
 
 Non-comprehensive list of things that have been 'gotchas' in the past:
 
