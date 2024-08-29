@@ -1,12 +1,10 @@
 # Section I Part A: Introduction
 
-## Purpose
+## Purpose and Audience
+
+This document is intended to help staff--including librarians, students, volunteers, and others--at the University of Hawai‘i at Mānoa Library who have responsibility for archival material describe those materials in ArchivesSpace.
 
 *[This would probably be a good place to also include links to the SUI and PUI...but maybe put that info in the Scope section below instead ...]*
-
-## Audience
-
-*[UHML staff, students, volunteers, etc. who work with ArchivesSpace]*
 
 ## Scope
 
