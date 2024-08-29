@@ -63,7 +63,7 @@ Note: Each list item is further described in a detailed workflow for that proces
 
 1. Do the work
 2. Document the process
-3. Keep ArchivesSubcommittee updated
+3. Keep stakeholders updated
 
 ### C) July-August: preparing deliverables / documenting the work / training and outreach
 

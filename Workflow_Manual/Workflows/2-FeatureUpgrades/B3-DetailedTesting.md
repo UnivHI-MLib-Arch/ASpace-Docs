@@ -1,4 +1,6 @@
-# [incomplete draft outline; what steps are present are not necessarily in order]
+# Feature Upgrade Process: Section B Part 3: Thorough Testing of Changes to Test Instance
+
+**[incomplete draft outline; what steps are present are not necessarily in order]**
 
 ## Timing
 

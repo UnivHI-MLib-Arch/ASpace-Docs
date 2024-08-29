@@ -1,4 +1,6 @@
-# [incomplete draft outline; what steps are present are not necessarily in order]
+# Feature Upgrade Process: Section C Part 3: Inspect Upgraded Production Instance
+
+**[incomplete draft outline; what steps are present are not necessarily in order]**
 
 ## Timing
 

@@ -1,4 +1,6 @@
-# [incomplete draft outline; what steps are present are not necessarily in order]
+# Improvement Project Process: Section C Part 3: Training and Outreach Re: Keeping Data Clean
+
+**[incomplete draft outline; what steps are present are not necessarily in order]**
 
 ## Timing
 
@@ -7,6 +9,6 @@
 
 ## Tasks
 
-[... the actual need for formal trainings may depend on whether there's been enough of a change from the pre-upgrade version to be necessary, but then again--given turnover, etc.--it might be worthwhile to plan for periodic trainings regardless of the amount/degree of change from the last version...]
+[... the actual need for formal trainings may depend on whether there's been policy changes and/or enough of a change from the pre-cleaned-up-data version to be necessary, but then again--given turnover, etc.--it might be worthwhile to plan for periodic trainings regardless of the amount/degree of change from the last version...]
 
 - Also note potential need to email lib_ids to let folks know that the documentation has been updated [if not already done in steps C1 or C2]

@@ -1,4 +1,6 @@
-# [incomplete draft outline; what steps are present are not necessarily in order]
+# Feature Upgrade Process: Section A Part 2: Create New Branches to Isolate Changes to Codebase
+
+**[incomplete draft outline; what steps are present are not necessarily in order]**
 
 ## Timing
 

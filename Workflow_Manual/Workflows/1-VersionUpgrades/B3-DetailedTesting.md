@@ -1,4 +1,6 @@
-# [incomplete draft outline; what steps are present are not necessarily in order]
+# Version Upgrade Process: Section B Part 3: Thorough Testing in/of Test Instance of Target Version
+
+**[incomplete draft outline; what steps are present are not necessarily in order]**
 
 ## Timing
 

@@ -1,4 +1,4 @@
-# [incomplete draft outline; what steps are present are not necessarily in order]
+# Feature Upgrade Process: Section C Part 4: Update Documentation
 
 ## Timing
 

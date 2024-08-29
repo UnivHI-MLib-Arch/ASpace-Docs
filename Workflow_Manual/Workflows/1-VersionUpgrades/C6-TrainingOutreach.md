@@ -1,4 +1,6 @@
-# [incomplete draft outline; what steps are present are not necessarily in order]
+# Version Upgrade Process: Section C Part 6: Training and Outreach for New Version of ASpace
+
+**[incomplete draft outline; what steps are present are not necessarily in order]**
 
 ## Timing
 

@@ -1,4 +1,6 @@
-# [incomplete draft outline; what steps are present are not necessarily in order]
+# Version Upgrade Process: Section B Part 4: Double-Check Things That Have Been Issues in Past Upgrades
+
+**[incomplete draft outline; what steps are present are not necessarily in order]**
 
 ## Timing
 

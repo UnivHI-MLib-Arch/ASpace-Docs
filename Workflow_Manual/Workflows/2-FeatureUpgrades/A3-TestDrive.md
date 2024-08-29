@@ -1,4 +1,6 @@
-# [incomplete draft outline; what steps are present are not necessarily in order]
+# Feature Upgrade Process: Section A Part 2: Test Driving a Sandbox of the Target Version
+
+**[incomplete draft outline; what steps are present are not necessarily in order]**
 
 ## Timing
 

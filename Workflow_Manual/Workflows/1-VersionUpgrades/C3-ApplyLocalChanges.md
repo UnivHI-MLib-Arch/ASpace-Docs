@@ -1,4 +1,6 @@
-# [incomplete draft outline; what steps are present are not necessarily in order]
+# Version Upgrade Process: Section C Part 3: Re-Apply/Update Local Changes to Upgraded Production Instance SUI
+
+**[incomplete draft outline; what steps are present are not necessarily in order]**
 
 ## Timing
 

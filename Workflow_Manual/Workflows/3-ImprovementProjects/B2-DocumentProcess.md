@@ -1,4 +1,6 @@
-# [incomplete draft outline; what steps are present are not necessarily in order]
+# Improvement Project Process: Section B Part 2: Document the Process
+
+**[incomplete draft outline; what steps are present are not necessarily in order]**
 
 ## Timing
 

@@ -1,4 +1,6 @@
-# [incomplete draft outline; what steps are present are not necessarily in order]
+# Feature Upgrade Process: Section A Part 1: Background Research and other Preparation
+
+**[incomplete draft outline; what steps are present are not necessarily in order]**
 
 ## Timing
 

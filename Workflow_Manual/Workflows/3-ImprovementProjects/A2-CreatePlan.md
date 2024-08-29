@@ -1,4 +1,6 @@
-# [incomplete draft outline; what steps are present are not necessarily in order]
+# Improvement Project Process: Section A Part 2: Create Project Plan(s)
+
+**[incomplete draft outline; what steps are present are not necessarily in order]**
 
 ## Timing
 

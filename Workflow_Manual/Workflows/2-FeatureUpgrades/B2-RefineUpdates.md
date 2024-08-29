@@ -1,4 +1,6 @@
-# [incomplete draft outline; what steps are present are not necessarily in order]
+# Feature Upgrade Process: Section B Part 2: Refine / Solidify Updates to Plugins, Settings, Workflows, Etc.
+
+**[incomplete draft outline; what steps are present are not necessarily in order]**
 
 ## Timing
 

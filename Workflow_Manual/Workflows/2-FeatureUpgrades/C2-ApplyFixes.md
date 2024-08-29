@@ -1,4 +1,6 @@
-# [incomplete draft outline; what steps are present are not necessarily in order]
+# Feature Upgrade Process: Section C Part 2: Apply the Updates / Changes to the Production Instance
+
+**[incomplete draft outline; what steps are present are not necessarily in order]**
 
 ## Timing
 
@@ -6,7 +8,9 @@ Mid May - Mid June (more or less, aim for May 16th - June 15th)
 
 ## Tasks
 
-Note: if the changes/updates require reindexing: Delete:
+- install / update plugins; update config.rb; and so on
+
+Note: if any of the changes/updates require reindexing: Delete:
 
 - \archivesspace\data\indexer_state
 - \archivesspace\data\indexer_pui\state
