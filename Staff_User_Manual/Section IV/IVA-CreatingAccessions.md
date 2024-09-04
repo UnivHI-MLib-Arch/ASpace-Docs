@@ -13,14 +13,14 @@
 **To Create a New Record**:
 
 1. First, make sure that your accession has a unique identifier by making sure it isn't already in the master list: [UHM Library Archival Collections](https://drive.google.com/open?id=1VD_ShYlU-m_fzbAzrUhigjBtcp-6xGua1GxQFoEFm9s) in Google Sheets
-    1. If it's a *new acquisition*
+    1. If it's a **new acquisition**
        1. Ask the registrar--as of Fall 2024, Leilani Dawson--to assign an accession number to your acquisition.
        2. Go to ASpace when you have the accession number.
-    2. If it's a *pre-existing accession* (that for some reason wasn't ever recorded in ASpace) *but you don’t know the accession number*
+    2. If it's a **pre-existing accession** (that for some reason wasn't ever recorded in ASpace) **but you don’t know the accession number**
        1. Ask the registrar to check to see if it already has an accession number
        2. In your request, make sure to note what you know about the accession, especially any details you may have about its title, creator, donor, the dates and formats of materials, and the year of donation.
        3. Go to ASpace when you have the accession number.
-    3. If it’s a *pre-existing accession* (that for some reason wasn't ever recorded in ASpace) *and you know the accession number*
+    3. If it’s a **pre-existing accession** (that for some reason wasn't ever recorded in ASpace) **and you know the accession number**
        1. You can go directly to ASpace.
 2. Then, in ASpace
    1. Under the 'Create' menu, choose 'Accession'.
@@ -33,7 +33,7 @@
 
 ### Minimum Fields for Good Practice
 
-ArchivesSpace only requires the ‘Identifier’ and ‘Accession Date’ fields, but also fill out the ‘Title’, ‘Provenance’, ‘Acquisition Type’, and ‘Resource Type’ fields; plus the fields pertaining to restrictions if they apply.
+ArchivesSpace only requires the ‘Identifier’ field, but also fill out the ‘Title’, ‘Accession Date’, ‘Provenance’, ‘Acquisition Type’, and ‘Resource Type’ fields; plus the fields pertaining to restrictions if they apply.
 
 1. **Basic Info > Title**
    1. Give the title of the accession, usually in the form of ‘Creator Name’ + ‘Resource Type’ (see instructions at link for ‘Resource Type’ options).
@@ -52,17 +52,46 @@ ArchivesSpace only requires the ‘Identifier’ and ‘Accession Date’ fields
       1. E.g. "Purchased from [X] with [Y] funds" or "Donated by [Creator]'s daughter, [Donor]".
    2. (The field can also be used for longer/more complicated chain of custody information, but this isn’t required.)
 5. **Basic Info > Acquisition Type**
+   1. Choose **‘Transfer’** for University of Hawai'i records; otherwise choose **‘Deposit’**, **‘Gift’**, or **‘Purchase’** as appropriate.
 6. **Basic Info > Resource Type**
+   1. Choose **‘Records’** for materials created by a corporate entity / organization / institution in the course of its work.
+   2. Choose **‘Papers’** for materials created by an individual or a family in his/her/their everyday life/lives
+   3. Choose **‘Publications’** for accessions consisting of only published print materials.
+   4. Choose **‘Collection’** for anything else, but especially for materials collected/compiled by one person/family/corporate entity but created by (an)other(s).
 7. **Basic Info > Access and/or Use Restrictions Fields**
+   1. If there are either access or use restrictions, first click/check the **‘Restrictions Apply?’** checkbox.
+   2. Then, if there are access restrictions, enter data into the **‘Access Restrictions?’** checkbox and **‘Access Restrictions Note’** pair; if there are use restrictions, enter data into the **‘Use Restrictions?’** checkbox and **‘Use Restrictions Note’** pair. (And if there are both, enter data into both pairs.)
+
+#### Access Restrictions vs. Use Restrictions
+
+**Access restrictions:** Used to describe any issues arising from materials’ physical condition, donor agreements, potential for containing sensitive information, licensing conditions, and/or intellectual property rights that prevent patrons from reading/viewing/listening to them, e.g.:
+
+- “Fragile originals have been retired; patrons must use the microfilm version”
+- “Correspondence closed until donor’s death”
+- “Items containing SSNs or other sensitive information may be redacted”
+- “Copyrighted AV materials not available for streaming online, and must instead be accessed on-site”
+- “All records from [office of origin] are restricted for 20 years from date of creation”
+
+**Use restrictions:** Used to describe any issues arising from materials’ licensing conditions, donor agreements, and/or intellectual property rights that prevent patrons from citing/copying/creating derivative works from them, e.g.:
+
+- “Quoting materials from this collection requires permission from the donor’s estate”
+- “No photographs or other reproductions allowed”
+- “The donor published the designs in his collection with a CC-BY-NC-SA license, which is still in effect”
 
 ### Desirable Fields
 
 1. **Basic Info > Content Description**
+   1. Enter a brief narrative summary of the content of the accession.
 2. **Basic Info > Condition Description**
-3. **Dates** (General Usage Note)
-   1. **Dates > Label**
-   2. **Dates > Type**
-   3. **Dates > Expression, Begin, and End Fields**
+   1. If the accession has preservation issues or includes things requiring special handling, note them here.
+3. **Dates**
+   1. General Usage Notes
+      1. Click the **‘Add Date’** button to get started.
+      2. If necessary, multiple Dates sections can be added to describe the entire accession in different ways, for example ‘bulk’ vs. ‘inclusive’ dates, or ‘Creation’ vs. ‘Publication’, ‘Copyright’, or ‘Broadcast’ dates.
+      3. Do not use multiple Dates sections to describe different parts of the accession; instead put that sort of information in either the 'Content Description' field or the 'Inventory'.
+   2. **Dates > Label**
+   3. **Dates > Type**
+   4. **Dates > Expression, Begin, and End Fields**
 4. **Extents** (General Usage Note)
    1. **Extents > Portion**
    2. **Extents > Number and Type**
