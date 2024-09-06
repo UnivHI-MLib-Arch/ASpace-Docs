@@ -132,53 +132,69 @@ ArchivesSpace only requires the ‘Identifier’ field, but also fill out the �
 
 **Note re: Optional Fields**: All fields not either listed above in the 'Good Practice' and 'Desirable' sections or listed below in the 'Do Not Use' section are optional.  Add them if you think it is worth the effort, or if you particularly need to track the location(s) of the material you're accessioning.
 
-- With the exception of the 'Instances' section, most should be fairly self-explanatory.
+- With the exception of the 'Instances' section (described below), most should be fairly self-explanatory.
 - If not, read the tool tips, look at the relevant section(s) of the User Manual in the ASpace Help Center *[add link]*, or ask Leilani for guidance.
 
-1. **Instances**
-   1. General Usage Notes
-      1. An ‘Instance’ is a physical or digital instantiation of a specific set of materials. A set of materials may have multiple instances: born-digital items may be printed out, physical items may be digitized, and both physical and digital items may be reformatted (e.g. a folder of paper documents may also exist in microfilm form, or a file of digital photos may be have both preservation and access versions).
-      2. In ArchivesSpace, physical materials--including microfilm, paper, photocopies, and other analog reproductions--are represented by container instances, and digital items--whether born-digital or digitized--are represented by digital object instances.
-      3. To get started, click on either the **‘Add Container Instance’** button or the **‘Add Digital Object’** button.
-   2. **Instances > Digital Object Instances**
-      1. For Digital Object Instances, the **'Digital Object'** field is required.
-      2. To link to an existing Digital Object record, either type a few letters into a search bar or click on the downward-pointing triangle to browse.
-         1. If there isn’t already a Digital Object record for your material, follow the instructions for creating Digital Object records in Section IV Part D *[add link]*, and then return to the Accession Record and link to it.
-      3. If there is more than one digital version of an item--e.g. original, thumbnail, mezzanine, etc.--each should have its own Digital Object Instance.
-         1. (Note on the **'Make Representative'** checkbox: Clicking ‘Make Representative’ designates a specific file version/instance as the one that should be highlighted on a resource / accession / component page in the public view.  However, since we don’t publish accession records, ‘Make Representative’ is irrelevant for our Accession records.)
-2. **Instances > Container Instances**
+#### Instances
+
+1. General Usage Notes
+   1. An ‘Instance’ is a physical or digital instantiation of a specific set of materials. A set of materials may have multiple instances: born-digital items may be printed out, physical items may be digitized, and both physical and digital items may be reformatted (e.g. a folder of paper documents may also exist in microfilm form, or a file of digital photos may be have both preservation and access versions).
+   2. In ArchivesSpace, physical materials--including microfilm, paper, photocopies, and other analog reproductions--are represented by container instances, and digital items--whether born-digital or digitized--are represented by digital object instances.
+   3. To get started, click on either the **‘Add Container Instance’** button or the **‘Add Digital Object’** button.
+2. **Instances > Digital Object Instances**
+   1. For Digital Object Instances, the **'Digital Object'** field is required.
+   2. To link to an existing Digital Object record, either type a few letters into a search bar or click on the downward-pointing triangle to browse.
+      1. If there isn’t already a Digital Object record for your material, follow the instructions for creating Digital Object records in Section IV Part D *[add link]*, and then return to the Accession Record and link to it.
+   3. If there is more than one digital version of an item--e.g. original, thumbnail, mezzanine, etc.--each should have its own Digital Object Instance.
+      1. (Note on the **'Make Representative'** checkbox: Clicking ‘Make Representative’ designates a specific file version/instance as the one that should be highlighted on a resource / accession / component page in the public view.  However, since we don’t publish accession records, ‘Make Representative’ is irrelevant for our Accession records.)
+3. **Instances > Container Instances**
    1. If you are adding a Container Instance, the **'Type'** and **'Top Container'** fields are required, and the child and grandchild types and indicators are optional.
-      1. **'Type'**: Choose the appropriate genre/format term for the material being described. 
-         1. **'Mixed Materials'** is most common for archival material, but there may be cases where one of the other choices is more apt.
-            1. (Because of database weirdness, some terms are listed twice; in these cases go with the capitalized version of the term.)
-         2. Alternatively, if creating a single instance for the entire accession, choose **'Accession'** as the Type, and see below for what to enter for ‘Top Container’.
-      2. **'Top Container'**:
-         1. Containers vs. Top Containers vs. Locations:
-            1. If it moves and/or can get paged, it’s a Container. If it’s stationary, it’s a Location. If it’s a container that is not contained within any other container, it’s a Top Container.
-               1. So, folders are top containers when they’re in map case drawers--which don’t get paged--but not when they’re in boxes, which do.
-               2. Similarly, objects, items, A/V reels, etc. that are not in boxes but are instead placed directly on shelves or in drawers should be listed as top containers (even though they don’t technically contain anything, but are just themselves).
-         2. To link to an existing top container--for example when adding an accrual to an existing collection, or adding either a very small collection or a few folders of oversized materials to a multi-collection box--either type a few letters of the name of the container into the search bar or click on the downward-pointing triangle to browse.
-            1. It is possible to search by keywords in addition to the exact container title, but this is considerably less helpful than it sounds, because the results don’t recognize quotes in phrases. So, for example, searching for “Box 3” brings up all the containers in ArchivesSpace tha have both ‘Box’ and ‘3’ in their records.  (Also, a maximum of 15 records shows up in the search list, even if there are more "Box 3"s in ASpace.)
-            2. Browsing takes you to a pop-up screen, and is much more helpful, acting is some ways like an advanced search.
-         3. To create a new Top Container record directly from the Container Instance Section of the Accession Record
-            1. (Also see Section IV Part H for more on Locations and Containers *[add link]*, including how to create new top containers.)
-            2. Click on the downward-pointing triangle and choose **'Create'**.
-            3. If possible, use a Container Profile to help standardize things.
-               1. As of 2024 there are very few Container Profiles entered into ASpace, so it may not be possible.
-               2. Note on dimensions in container profiles: the dimensions in the profile’s **Container Title** are the stated dimensions of the boxes (usually the interior dimensions), while the ones in the **Dimensions** fields are the actual average outside dimensions, including lids.
-            4. **'Container Type'**
-               1. **‘Box’** is the most common type for top containers, but occasionally some of the others are appropriate.
-               2. NOTE: If you chose **‘Accession’** as your instance type, then choose **‘bin’** as your Top Container type (in this case ‘bin’ represents a fake top container holding the entire accession).
-               3. Ignore the container types of **‘map-case’** and **‘drawer’**!!  Treat these as locations, not as containers. 
-                  1. (Leilani will periodically check to see if any records use either of these as container types, and is looking into how to delete them as options.)
-                  2. If you by some odd chance have drawers that can be removed and paged--like natural history specimen drawers in museums--ask Leilani what to do instead.
-            5. **'Indicator'**
-            6. **'Barcode'**
-            7. **'Location'**
-            8. Child and/or Grandchild Containers
-
-
+   2. **'Type'**: Choose the appropriate genre/format term for the material being described.
+      1. **'Mixed Materials'** is most common for archival material, but there may be cases where one of the other choices is more apt. (Because of database weirdness, some terms are listed twice; in these cases go with the capitalized version of the term.)
+      2. Alternatively, if creating a single instance for the entire accession, choose **'Accession'** as the Type, and see below for what to enter for ‘Top Container’.
+   3. **'Top Container'**:
+      1. Containers vs. Top Containers vs. Locations:
+         1. If it moves and/or can get paged, it’s a Container. If it’s stationary, it’s a Location. If it’s a container that is not contained within any other container, it’s a Top Container.
+         2. So, folders are top containers when they’re in map case drawers--which don’t get paged--but not when they’re in boxes, which do.
+         3. Similarly, objects, items, A/V reels, etc. that are not in boxes but are instead placed directly on shelves or in drawers should be listed as top containers (even though they don’t technically contain anything, but are just themselves).
+      2. To link to an existing top container--for example when adding an accrual to an existing collection, or adding either a very small collection or a few folders of oversized materials to a multi-collection box--either type a few letters of the name of the container into the search bar or click on the downward-pointing triangle to browse.
+         1. It is possible to search by keywords in addition to the exact container title, but this is considerably less helpful than it sounds, because the results don’t recognize quotes in phrases. So, for example, searching for “Box 3” brings up all the containers in ArchivesSpace tha have both ‘Box’ and ‘3’ in their records.  (Also, a maximum of 15 records shows up in the search list, even if there are more "Box 3"s in ASpace.)
+         2. Browsing takes you to a pop-up screen, and is much more helpful, acting is some ways like an advanced search.
+      3. To create a new Top Container record directly from the Container Instance Section of the Accession Record
+         1. (Also see Section IV Part H for more on Locations and Containers *[add link]*, including how to create new top containers.)
+         2. Click on the downward-pointing triangle and choose **'Create'**.
+         3. If possible, use a Container Profile to help standardize things.
+            1. As of 2024 there are very few Container Profiles entered into ASpace, so it may not be possible.
+            2. Note on dimensions in container profiles: the dimensions in the profile’s **Container Title** are the stated dimensions of the boxes (usually the interior dimensions), while the ones in the **Dimensions** fields are the actual average outside dimensions, including lids.
+         4. **'Container Type'**
+            1. **‘Box’** is the most common type for top containers, but occasionally some of the others are appropriate.
+            2. NOTE: If you chose **‘Accession’** as your instance type, then choose **‘bin’** as your Top Container type (in this case ‘bin’ represents a fake top container holding the entire accession).
+            3. Ignore the container types of **‘map-case’** and **‘drawer’**!!  Treat these as locations, not as containers.
+               1. (Leilani will periodically check to see if any records use either of these as container types, and is looking into how to delete them as options.)
+               2. If you by some odd chance have drawers that can be removed and paged--like natural history specimen drawers in museums--ask Leilani what to do instead.
+         5. **'Indicator'**
+            1. Give the indicator for the box or other container: usually a number, but sometimes a brief alphanumeric string.
+            2. If your instance type is ‘Accession’ (and so your Top Container type is ‘bin’), then enter the accession number and an abbreviated version of the container summary for the 'Indicator', e.g. “Acc. 2015:999 boxes 1-5”.
+            3. (This would show up in the container instance list as: “bin Acc. 2015:999 boxes 1-5”)
+         6. **'Barcode'**
+            1. Enter the container’s barcode if your department barcodes containers.
+         7. **'Location'**
+            1. WARNING!: As of August 2024, the locations that are entered into ASpace are not properly formatted, and only go down to range and bay, not all the way to individual shelves within a bay.  So, please do not follow the remainder of these instructions until after the ArchivesSubcommittee has decided on standard location formatting and announced that locations are ready to use!
+            2. First, click **‘Add Location’**; this brings up the other fields.  ‘Status’, ‘Start Date’, and ‘Location’ are required; ‘Note’ can be helpful.
+            3. **'Status'**: Choose ‘Current’ unless you really care about tracking items’ past locations.
+            4. **‘Location’**: either type a few letters into a search bar or click on the downward-pointing triangle to browse.
+               1. Note: ‘Find with Space Calculator’ probably won’t work until we have more locations linked to location profiles (and may not work at all unless the instance / container being created is linked to a Container Profile).
+               2. To create a new Location, click on the downward-pointing triangle and choose **‘Create’**; this opens a pop-up with the same fields as a regular individual Location record, so see Section IV Part H *[add link]* for instructions
+            5. Click **‘Create and Link to Top Container’** when done.
+         8. Child and/or Grandchild Containers
+            1. After you’ve defined your top container, these fields can be used for interior containers, e.g. folders within boxes.
+            2. For accessions, specifying the child/grandchild containers is generally not necessary if all the lower-level containers (e.g. all the folders in a single box) are from that same accession.
+               1. They can be useful in cases where all or part of an accession resides within a multi-collection box, for example if an accession is only a folder or two and is kept in a ‘Small Collections’ box, or if it includes one oversize folder that is kept in a general/mixed-collection ‘Oversize’ box.
+               2. (In those situations, the child/grandchild indicator should be devised from a combination of the accession number and the folder number; e.g. “Acc. 2015:999-01” for a small accession.  Presuming that the child type is ‘Folder’, this would show up in that Top Container’s instance/contents list as “Folder Acc. 2015:999-01”.)
 
 ### Do Not Use These Fields
 
-[...]
+1. Subjects and Agents-As-Subjects
+   1. Do not add Subjects--or Agents with the Role field set to 'Subject'--to accession records. As noted above in the section on adding Agents, subject analysis work should only be done by Catalogers, and so that effort should be saved for resource records.
+2. User Defined
+   1. Do not use ‘User Defined’ fields without first bringing the suggested use and purpose of those fields to the Archives Subcommittee—we don’t want people using the same fields in different ways!
