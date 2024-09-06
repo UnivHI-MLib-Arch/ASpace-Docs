@@ -9,6 +9,7 @@
 - [Library of recordings of longer workshops and trainings](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/3185901569/ArchivesSpace+Training+Recordings) Note: Login required
 
 ## Other official ASpace resources
+
 - [ASpace YouTube channel](https://www.youtube.com/channel/UCxR6D-UlSx6N6UWTeqHTjzA)
 - [ASpace release notes](https://github.com/archivesspace/archivesspace/releases)
 - [ASpace technical documentation](https://github.com/archivesspace/tech-docs)
