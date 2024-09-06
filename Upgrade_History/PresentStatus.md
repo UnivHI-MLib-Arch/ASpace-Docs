@@ -59,9 +59,9 @@ Note: The list below includes only select highlights; for considerably more info
 
 #### Importing / uploading spreadsheets is now part of the core code (instead of a plugin, as previously was the case), and so there are now new spreadsheet templates to use to upload archival objects, accessions, assessments, digital objects, and so on
 
-- *[link to part of staff manual with instructions / advice for uploading data via spreadsheet, e.g. which template to use, caveat re: Excel playing fast and loose with dates/numbers, and caveat on the amount of time it takes background jobs to run]*
-- *[link to wherever (library intranet?) users can get the new blank spreadsheet templates]*
-  - Short term/temporary location the meantime: Email Leilani for link and then login w/UH id to access
+- The blank / empty spreadsheets can be downloaded from within ASpace: When logged in, open the gear-shaped drop-down menu near the top right corner of the page (under your user name), and click on 'Bulk Upload Templates'.
+- See [Section V Part C of the staff manual](https://github.com/UnivHI-MLib-Arch/ASpace-Docs/blob/main/Staff_User_Manual/Section%20V/VC-SpreadsheetImports.md), with instructions and advice for uploading data via spreadsheet, e.g. which template to use, caveats re: Excel playing fast and loose with dates and other numbers, and so on.
+  - *[...but note that as of Sept 1st 2024 this page is not yet written...]*
 - Relevant sections of ASpace Help Center User Manual
   - [Overview of bulk import via spreadsheet](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/894566467/Importing+Records+Overview)
   - [Importing archival object and digital object records](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/1173913646/Import+Archival+Objects+from+Excel+or+CSV+File+from+v2.8.1)
@@ -81,7 +81,8 @@ Note: The list below includes only select highlights; for considerably more info
       - Catalogers can edit records in full mode but cannot see contact information
       - Other people with staff-level permissions can see contact information but can only edit in light mode (it is not yet clear whether archivists/librarians can view full-mode-only data, since we don't yet have agent records that include this extra information)
       - Everyone else (notably students) can neither see contact information nor edit records in full mode.  (Again, since this is new to us, there's the same caveat as above re: viewing full-mode-only fields.)
-- *[link to section of the staff manual re: agent records; possibly also link to section re: requesting changes in permissions for yourself or your students/project staff]*
+- See [Section IV Part E of the staff manual](https://github.com/UnivHI-MLib-Arch/ASpace-Docs/blob/main/Staff_User_Manual/Section%20IV/IVE-CreatingAgents-Subjects.md) re: agent (and subject) records.
+  - *[...but note that as of Sept 1st 2024 this page is not yet written...]*
 - Relevant sections of the ASpace Help Center User Manual
   - [Overview on Managing Agents](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/1993441340/Managing+Agents+as+of+v3.0)
   - [Light Mode vs. Full Mode](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/2210365445/Agent+Record+Light+Mode+and+Full+Mode+as+of+v3.0)
@@ -93,7 +94,8 @@ Note: The list below includes only select highlights; for considerably more info
   - The "Make Representative" feature now works: a specific file (or version of a file) can now be set as the 'representative version', which means that it will be the one that is given pride of place in the PUI display of that digital object record or digital component record
   - (A 'Make Representative' button had existed in DO records in 2.5.1, but it didn't do anything.)
   - Description data for Digital Object records can now be carried over when spawning a DO from a linked Resource, Archival Object, or Accession record.
-- *[link to staff manual section re: digital objects]*
+- See [See Section IV Part D of the staff manual](https://github.com/UnivHI-MLib-Arch/ASpace-Docs/blob/main/Staff_User_Manual/Section%20IV/IVD-CreatingDigitalObjects.md), re: digital objects
+  - *[...but note that as of Sept 1st 2024 this page is not yet written...]*
 - Related sections of the ASpace Help Center User Manual
   - [Overview of Digital Objects](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/890142831/Managing+Digital+Objects)
   - [Overview of the Make Representative Functionality](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/3364519945/Make+Representative+Functionality+as+of+v3.4)
@@ -107,21 +109,24 @@ Note: The list below includes only select highlights; for considerably more info
   - Whether or not newly-created records are pre-populated with other defaults or if they are always completely blank
   - What columns appear--and the order in which they appear--when searching or browsing
   - The default note order in resources, archival objects, and digital objects
-- As of 8/2024, the defaults for the UHML repository can be found [on GitHub here](https://github.com/UnivHI-MLib-Arch/ASpace-Docs/blob/StaffMan-UpgradeHist/Staff_User_Manual/UHML-ASpaceSUI-RepositoryDefaults.docx)
-  - Users can override/change these defaults by opening on the drop-down menu by their user name in the upper right hand corner of the screen and clicking on "Repository Preferences (username)".
+- As of 8/2024, a word-document list of the defaults for the UHML repository can be found [on GitHub here](https://github.com/UnivHI-MLib-Arch/ASpace-Docs/blob/StaffMan-UpgradeHist/Staff_User_Manual/UHML-ASpaceSUI-RepositoryDefaults.docx)
+  - Users can override/change these defaults by opening on the drop-down menu by their user name in the upper right hand corner of the screen and clicking on "Repository Preferences (username)", as described in [Section III Part C of the staff manual](https://github.com/UnivHI-MLib-Arch/ASpace-Docs/blob/main/Staff_User_Manual/Section%20III/IIIC-SettingSearchBrowseDefaults.md).
+    - *[...but note that as of Sept 1st 2024 this page is not yet complete...]*
 - [ArchivesSpace Help Center User Manual page on these settings](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/892239901/Setting+Preferences+v2.8.1+through+v3.4.1)
 
 #### New reports page with additional report options
 
-- *[link to staff manual section re: reports]*
-  - *[put a reminder/caveat that the useability of reports and the reliability of report data depends on the quality of the data in ASpace itself here?--(E.g. in order to get results from a shelf list report you need to have location records, archival object records with instances that are linked top containers, and those top container records must be assigned to a location record, and so this report won't be useful since we haven't really started using locations yet.)--Or just cover all that in the staff manual?]*
+- See Section VI of the staff manual for information on reports and background jobs, especially [Part B](https://github.com/UnivHI-MLib-Arch/ASpace-Docs/blob/main/Staff_User_Manual/Section%20VI/VIB-CommonReports.md), on the more common reports.
+  - *[...but note that as of Sept 1st 2024 this page is not yet written...]*
+  - *[Also: put a reminder/caveat that the useability of reports and the reliability of report data depends on the quality of the data in ASpace itself here?--(E.g. in order to get results from a shelf list report you need to have location records, archival object records with instances that are linked top containers, and those top container records must be assigned to a location record, and so this report won't be useful since we haven't really started using locations yet.)--Or just cover all that in the staff manual?]*
 - [ASpace Help Center User Manual page on navigating reports](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/894664734/Finding+the+Default+Reports+Page)
 - [ASpace Help Center User Manual annotated list of reports](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/894501015/Choosing+a+Default+Report+as+of+v2.2.2)
 
 #### Top container management improvements
 
 - There is a new interface for viewing and managing top container records.  Among other things, new options include merging top container records and importing top container data in csv format
-- *[link to staff manual section re: container instances]*
+- See [Section IV Part V of the staff manual](https://github.com/UnivHI-MLib-Arch/ASpace-Docs/blob/main/Staff_User_Manual/Section%20IV/IVH-CreatingLocations-Containers.md), re: locations and containers.
+  - *[...but note that as of Sept 1st 2024 this page is not yet written...]*
 - ArchivesSpace Help Center resources
   - [ASpace User Manual overview page on managing top containers](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/894435365/Managing+Top+Containers)
   - [ASpace User Manual page on performing bulk top container actions](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/894402619/Performing+Bulk+Operations+on+Top+Containers)
@@ -133,13 +138,18 @@ Note: The list below includes only select highlights; for considerably more info
 - Finding Aid Information fields and Repository information data are now visible in the PUI
   - Finding Aid Information data shows up at the bottom of top-level resource/collection records, and Repository information data shows up at the bottom of most (if not all) PUI records
   - (Note: we haven't entered repository-level contact data into ASpace--and so this section shows up as blank--because our collections don't all have the same contact details.)
-  - *[link to staff manual section on where in a resource record to enter contact information (and how), since it will be different for each department]*
+  - See [Section IV Part B of the staff manual](https://github.com/UnivHI-MLib-Arch/ASpace-Docs/blob/main/Staff_User_Manual/Section%20IV/IVB-CreatingResources.md) on creating resource records, specifically the subsection "Note: Conditions Governing Access and/or Conditions Governing Use", which is where collection / department contact information should reside instead.
+    - *[...but note that as of Sept 1st 2024 this page is not yet written...]*
 - Accession records can now be linked to individual Archival Objects (instead of just to Resource records); relatedly Archival Objects can be spawned from Accession records
-  - *[link to staff manual section(s)]*
+  - See [Section IV Part A of the staff manual](https://github.com/UnivHI-MLib-Arch/ASpace-Docs/blob/main/Staff_User_Manual/Section%20IV/IVA-CreatingAccessions.md), on creating accession records.
+    - *[... but note that as of Sept 1st 2024 information on how to link Accession records to AOs and on how to spawn AOs from Accession records has not yet been added to the Accession Record page...]*
   - [ASpace Help Center User Manual page on spawning AOs from Accession records](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/3169943567/Spawning+an+Archival+Object+from+an+Accession+Record)
 - Users can update their own SUI passwords
-  - *[link to staff manual section]*
+  - *[link to staff manual section with this info, will probably end up being either [Section I Part B (Overview)](https://github.com/UnivHI-MLib-Arch/ASpace-Docs/blob/main/Staff_User_Manual/Section%20I/IB-Overview.md) or [Section III Part D (Other Default Settings)](https://github.com/UnivHI-MLib-Arch/ASpace-Docs/blob/main/Staff_User_Manual/Section%20III/IIID-OtherDefaultSettings.md)...]*
+    - *[have to decide where to put this info and then write it up...]*
   - [ASpace Help Center User Manual page on resetting your password](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/3182166017/Resetting+Your+Own+User+Password+as+of+v3.3)
 - Can now import subjects via csv upload
-  - *[link to staff manual section... Also maybe a caveat / reminder that only catalogers should be doing this? Or is it enough to just mention that in the staff manual section?]*
+  - See [Section V, Part C of the staff manual](https://github.com/UnivHI-MLib-Arch/ASpace-Docs/blob/main/Staff_User_Manual/Section%20V/VC-SpreadsheetImports.md), on uploading data via spreadsheets
+    - *[...but note that as of Sept 1st 2024 this page is not yet written...]*
+    - *[... Also maybe a caveat / reminder that only catalogers should be doing this? Or is it enough to just mention that in the staff manual section?]*
 - Bugfixes in reorder mode--should now be easier to use
