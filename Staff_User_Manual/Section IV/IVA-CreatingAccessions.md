@@ -179,7 +179,7 @@ ArchivesSpace only requires the ‘Identifier’ field, but also fill out the �
          6. **'Barcode'**
             1. Enter the container’s barcode if your department barcodes containers.
          7. **'Location'**
-            1. WARNING!: As of August 2024, the locations that are entered into ASpace are not properly formatted, and only go down to range and bay, not all the way to individual shelves within a bay.  So, please do not follow the remainder of these instructions until after the ArchivesSubcommittee has decided on standard location formatting and announced that locations are ready to use!
+            1. WARNING!: As of August 2024, the locations that are entered into ASpace are not properly formatted, and only go down to range and bay, not all the way to individual shelves within a bay.  So, please do not follow the remainder of these instructions until after the Archives Subcommittee has decided on standard location formatting and announced that locations are ready to use!
             2. First, click **‘Add Location’**; this brings up the other fields.  ‘Status’, ‘Start Date’, and ‘Location’ are required; ‘Note’ can be helpful.
             3. **'Status'**: Choose ‘Current’ unless you really care about tracking items’ past locations.
             4. **‘Location’**: either type a few letters into a search bar or click on the downward-pointing triangle to browse.
@@ -194,7 +194,7 @@ ArchivesSpace only requires the ‘Identifier’ field, but also fill out the �
 
 ### Do Not Use These Fields
 
-1. Subjects and Agents-As-Subjects
-   1. Do not add Subjects--or Agents with the Role field set to 'Subject'--to accession records. As noted above in the section on adding Agents, subject analysis work should only be done by Catalogers, and so that effort should be saved for resource records.
-2. User Defined
+1. **Subjects** and Agents-As-Subjects
+   1. Do not add Subjects--or Agents with the Role field set to 'Subject'--to accession records. As noted above in the section on linking Agents to the accession record, subject analysis work should only be done by Catalogers, and so that effort should be saved for resource records.
+2. **User Defined**
    1. Do not use ‘User Defined’ fields without first bringing the suggested use and purpose of those fields to the Archives Subcommittee—we don’t want people using the same fields in different ways!
