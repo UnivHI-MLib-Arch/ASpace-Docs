@@ -21,7 +21,7 @@
     - Version upgrade tasks
     - Feature upgrade tasks
     - Improvement project tasks
-- Resources [this might get subsumed into more specific documents rather than existing separately]
+- Resources *[this might get subsumed into more specific documents rather than existing separately]*
 
 ## Decision(s) to make / things to do
 
