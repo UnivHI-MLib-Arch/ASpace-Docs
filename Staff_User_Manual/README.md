@@ -2,6 +2,8 @@
 
 Table of Contents
 
+[Note: Status indicators will be added noting each subsection's readiness for use as the workflows are drafted and then refined.]
+
 ## I) Introduction
 
 ### A) [Purpose, audience, scope, credits](https://github.com/UnivHI-MLib-Arch/ASpace-Docs/blob/main/Staff_User_Manual/Section%20I/IA-PurposeEtc.md)
@@ -23,6 +25,8 @@ Table of Contents
 ## IV) Creating New Records
 
 ### A) [Accession records](https://github.com/UnivHI-MLib-Arch/ASpace-Docs/blob/main/Staff_User_Manual/Section%20IV/IVA-CreatingAccessions.md)
+
+  [Status: 1st Draft complete as of 2024.09.10]
 
 ### B) [Resource records](https://github.com/UnivHI-MLib-Arch/ASpace-Docs/blob/main/Staff_User_Manual/Section%20IV/IVB-CreatingResources.md)
 

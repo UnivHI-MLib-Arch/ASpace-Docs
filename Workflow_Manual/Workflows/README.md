@@ -4,6 +4,8 @@ Note: Each list item is further described in a detailed workflow for that proces
 
 ## Version Upgrades
 
+[Note: Status indicators will be added noting each subsection's readiness for use as the workflows are drafted and then refined.]
+
 ### A) September-December: background research / sandboxing and unit tests / etc
 
 1. Preparation / background research on target version and on any/all intervening updates

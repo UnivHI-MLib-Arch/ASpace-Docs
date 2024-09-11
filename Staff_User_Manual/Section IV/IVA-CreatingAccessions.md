@@ -1,8 +1,8 @@
 # Section IV Part A: Creating Accession Records
 
-**[incomplete draft outline; what steps are present are not necessarily in order]**
+Status: 1st draft complete and ready to use as of 2024.09.10, but not yet fully refined.
 
-*[Throughout: remember to also explain how to spawn records from other records and how to link records to each other.  Also remember to link to the relevant section(s) of the ASpace Help Center's User Manual.]*
+*(Still to do: formatting improvements such as fixing curly quotes vs. straight quotes, adding a clickable/linked table of contents to the top of the page, and so on; links to related pages of this manual and also to the ASpace Help Center; more information on how to spawn records from accessions and link various types of records to each other.)*
 
 ## Overview
 

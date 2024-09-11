@@ -16,7 +16,7 @@
     - Between the Core Team + the CDMC Archives Subcommittee
     - Other (e.g. communications to all UHML AS staff users; to all UHML PSD staff; to researchers; etc.)
 - Workflows
-  - Outline / overview
+  - Outline / Table of contents
   - Detailed views
     - Version upgrade tasks
     - Feature upgrade tasks
