@@ -1,10 +1,11 @@
 # UHML ASpace Upgrade Workflows - Overview
 
-Note: Each list item is further described in a detailed workflow for that process/sub-task. (Eventually these will all be linked below.)
+Notes:
+
+1. Each list item is further described in a detailed workflow for that process/sub-task. (Eventually these will all be linked below.)
+2. Status indicators will be added noting each subsection's readiness for use as the workflows are drafted and then refined.
 
 ## Version Upgrades
-
-[Note: Status indicators will be added noting each subsection's readiness for use as the workflows are drafted and then refined.]
 
 ### A) September-December: background research / sandboxing and unit tests / etc
 
